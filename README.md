@@ -1,6 +1,8 @@
 # Analise-de-dados-publicos-de-saude
-Trabalho fatec
-
+Trabalho fatec realizado por:
+github.com/CarolinaMargiotti
+e
+github.com/
 
 Os dados, até a data do presente estudo, estão em https://saude-ibgedgc.hub.arcgis.com/datasets/2dfd385e7ded49c6b7f7929911806a20_2
 
