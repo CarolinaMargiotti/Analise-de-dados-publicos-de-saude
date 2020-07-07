@@ -9,6 +9,7 @@ e
 
 https://github.com/LSA1985
 
+Este jupyter notebook analisa dados de saúde coletados pelo ibge, em relação a polos de baixa e média complexidade.
 
 Os dados, até a data do presente estudo, estão em https://saude-ibgedgc.hub.arcgis.com/datasets/2dfd385e7ded49c6b7f7929911806a20_2
 
