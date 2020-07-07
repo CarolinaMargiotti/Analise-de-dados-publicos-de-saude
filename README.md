@@ -7,7 +7,7 @@ github.com/CarolinaMargiotti
 
 e
 
-github.com/
+https://github.com/LSA1985
 
 
 Os dados, até a data do presente estudo, estão em https://saude-ibgedgc.hub.arcgis.com/datasets/2dfd385e7ded49c6b7f7929911806a20_2
