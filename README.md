@@ -2,7 +2,7 @@
 Trabalho fatec realizado por:
 
 
-github.com/CarolinaMargiotti
+https://github.com/CarolinaMargiotti
 
 
 e
