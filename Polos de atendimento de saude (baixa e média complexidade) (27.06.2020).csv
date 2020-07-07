@@ -1,0 +1,910 @@
+﻿X,Y,OBJECTID,Geocodigo,Municipio,Municipio_ou_referencia_arranjo,Polos_de_Alta_Complexidade,Polos_Baixa_media_complexidade
+-63.033808,-9.91196399967962,1,1100023,ARIQUEMES,ARIQUEMES,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-61.451156,-11.4355779996328,2,1100049,CACOAL,CACOAL,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-60.820296,-13.1886309995803,3,1100056,CEREJEIRAS,CEREJEIRAS,,polo de baixa e media complexidade de serviços de saúde
+-62.472108,-10.4322819996634,4,1100114,JARU,JARU,,polo de baixa e media complexidade de serviços de saúde
+-61.957458,-10.8768169996498,5,1100122,JI-PARANA,JI-PARANA,,polo de baixa e media complexidade de serviços de saúde
+-62.257167,-10.7215279996546,6,1100155,OURO PRETO DO OESTE,OURO PRETO DO OESTE,,polo de baixa e media complexidade de serviços de saúde
+-63.909466,-8.76615399971543,7,1100205,PORTO VELHO,PORTO VELHO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-61.773242,-11.7199669996242,8,1100288,ROLIM DE MOURA,ROLIM DE MOURA,,polo de baixa e media complexidade de serviços de saúde
+-60.134778,-12.7351259995937,9,1100304,VILHENA,VILHENA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-68.749991,-11.0153619996456,10,1200104,BRASILEIA,BRASILEIA,,polo de baixa e media complexidade de serviços de saúde
+-72.666458,-7.63439699975112,11,1200203,CRUZEIRO DO SUL,CRUZEIRO DO SUL,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-67.810095,-9.97240399967767,12,1200401,RIO BRANCO,RIO BRANCO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-67.739057,-10.1522419996721,13,1200450,SENADOR GUIOMARD,SENADOR GUIOMARD,,polo de baixa e media complexidade de serviços de saúde
+-63.142031,-4.08564199986572,14,1301209,COARI,COARI,,polo de baixa e media complexidade de serviços de saúde
+-69.865006,-6.66778599978206,15,1301407,EIRUNEPE,EIRUNEPE,,polo de baixa e media complexidade de serviços de saúde
+-58.447392,-3.14599199989644,16,1301902,ITACOATIARA,ITACOATIARA,,polo de baixa e media complexidade de serviços de saúde
+-60.621286,-3.30048899989142,17,1302504,MANACAPURU,MANACAPURU,,polo de baixa e media complexidade de serviços de saúde
+-60.025533,-3.13624399989675,18,1302603,MANAUS,MANAUS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-65.591256,-1.86035799993871,19,1302801,MARAA,MARAA,,polo de baixa e media complexidade de serviços de saúde
+-56.779403,-2.18601699992791,20,1303007,NHAMUNDA,NHAMUNDA,,subpolo de baixa e media complexidade de serviços de saúde
+-56.729736,-2.62201399991363,21,1303403,PARINTINS,PARINTINS,,polo de baixa e media complexidade de serviços de saúde
+-67.946631,-3.10343299989784,22,1303700,SANTO ANTONIO DO ICA,SANTO ANTONIO DO ICA,,polo de baixa e media complexidade de serviços de saúde
+-69.942908,-4.22886699986102,23,1304062,TABATINGA,TABATINGA,,polo de baixa e media complexidade de serviços de saúde
+-64.707025,-3.34592799988992,24,1304203,TEFE,TEFE,,polo de baixa e media complexidade de serviços de saúde
+-60.672461,2.8207249999071,25,1400100,BOA VISTA,BOA VISTA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-60.424772,0.947646999968715,26,1400472,RORAINOPOLIS,RORAINOPOLIS,,polo de baixa e media complexidade de serviços de saúde
+-52.206035,-3.2053289998944,27,1500602,ALTAMIRA,ALTAMIRA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.672753,-2.79196199990808,28,1501204,BAIAO,BAIAO,,polo de baixa e media complexidade de serviços de saúde
+-48.505212,-1.45541899995197,29,1501402,BELEM,BELEM,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.765603,-1.05541599996512,30,1501709,BRAGANCA,BRAGANCA,,polo de baixa e media complexidade de serviços de saúde
+-50.483156,-1.69140799994422,31,1501808,BREVES,BREVES,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.495447,-2.24435999992597,32,1502103,CAMETA,CAMETA,,polo de baixa e media complexidade de serviços de saúde
+-47.178368,-1.19282799996063,33,1502202,CAPANEMA,CAPANEMA,,polo de baixa e media complexidade de serviços de saúde
+-47.063843,-1.74452299994252,34,1502301,CAPITAO POCO,CAPITAO POCO,,polo de baixa e media complexidade de serviços de saúde
+-47.92643,-1.29405299995736,35,1502400,CASTANHAL,CASTANHAL,,polo de baixa e media complexidade de serviços de saúde
+-55.98141,-4.27448099985953,36,1503606,ITAITUBA,ITAITUBA,,polo de baixa e media complexidade de serviços de saúde
+-49.13562,-5.34919199982463,37,1504208,MARABA,MARABA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.354905,-2.99562099990142,38,1505502,PARAGOMINAS,PARAGOMINAS,,polo de baixa e media complexidade de serviços de saúde
+-49.905519,-6.06650699980143,39,1505536,PARAUAPEBAS,PARAUAPEBAS,,polo de baixa e media complexidade de serviços de saúde
+-50.038747,-8.04100599973827,40,1506138,REDENCAO,REDENCAO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.357578,-0.614669999979718,41,1506203,SALINOPOLIS,SALINOPOLIS,,polo de baixa e media complexidade de serviços de saúde
+-54.710865,-2.4169379999204,42,1506807,SANTAREM,SANTAREM,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.567206,-6.39536999979085,43,1507458,SAO GERALDO DO ARAGUAIA,SAO GERALDO DO ARAGUAIA,,polo de baixa e media complexidade de serviços de saúde
+-49.670429,-3.76712399987615,44,1508100,TUCURUI,TUCURUI,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-53.73909,-3.71625699987777,45,1508159,URUARA,URUARA,,polo de baixa e media complexidade de serviços de saúde
+-48.144362,-0.85177699997194,46,1508209,VIGIA,VIGIA,,polo de baixa e media complexidade de serviços de saúde
+-49.94452,-7.10586699976805,47,1508407,XINGUARA,XINGUARA,,polo de baixa e media complexidade de serviços de saúde
+-52.520341,-0.841589999972188,48,1600279,LARANJAL DO JARI,LARANJAL DO JARI,,subpolo de baixa e media complexidade de serviços de saúde
+-51.051696,0.036813999998778,49,1600303,MACAPA,MACAPA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.82712,-12.9311859995878,50,1702000,ARAGUACU,ARAGUACU,,polo de baixa e media complexidade de serviços de saúde
+-48.2099,-7.18983399976539,51,1702109,ARAGUAINA,ARAGUAINA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.064519,-7.65778999975044,52,1702307,ARAPOEMA,ARAPOEMA,,polo de baixa e media complexidade de serviços de saúde
+-46.937424,-12.9320259995879,53,1702406,ARRAIAS,ARRAIAS,,polo de baixa e media complexidade de serviços de saúde
+-47.88361,-5.46870499982068,54,1702554,AUGUSTINOPOLIS,AUGUSTINOPOLIS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.483504,-8.05578099973785,55,1705508,COLINAS DO TOCANTINS,COLINAS DO TOCANTINS,,polo de baixa e media complexidade de serviços de saúde
+-46.819841,-11.626286999627,56,1707009,DIANOPOLIS,DIANOPOLIS,,polo de baixa e media complexidade de serviços de saúde
+-48.510986,-8.83660299971316,57,1709302,GUARAI,GUARAI,,polo de baixa e media complexidade de serviços de saúde
+-49.063332,-11.726724999624,58,1709500,GURUPI,GURUPI,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.392107,-9.56805399969032,59,1713205,MIRACEMA DO TOCANTINS,MIRACEMA DO TOCANTINS,,polo de baixa e media complexidade de serviços de saúde
+-47.727258,-11.7053569996247,60,1714203,NATIVIDADE,NATIVIDADE,,polo de baixa e media complexidade de serviços de saúde
+-48.886483,-10.1779249996714,61,1716109,PARAISO DO TOCANTINS,PARAISO DO TOCANTINS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.176879,-8.97221399970888,62,1716505,PEDRO AFONSO,PEDRO AFONSO,,polo de baixa e media complexidade de serviços de saúde
+-48.761183,-8.72978999971652,63,1716703,COLMEIA,COLMEIA,,polo de baixa e media complexidade de serviços de saúde
+-48.413023,-10.7072569996551,64,1718204,PORTO NACIONAL,PORTO NACIONAL,,polo de baixa e media complexidade de serviços de saúde
+-48.333656,-10.1845019996712,65,1721000,PALMAS,PALMAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.41674,-6.33013399979292,66,1721208,TOCANTINOPOLIS,TOCANTINOPOLIS,,polo de baixa e media complexidade de serviços de saúde
+-48.537007,-6.41136399979032,67,1722107,XAMBIOA,XAMBIOA,,subpolo de baixa e media complexidade de serviços de saúde
+-47.501257,-4.95209999983747,68,2100055,ACAILANDIA,ACAILANDIA,,polo de baixa e media complexidade de serviços de saúde
+-45.931531,-9.10844699970462,69,2100501,ALTO PARNAIBA,ALTO PARNAIBA,,subpolo de baixa e media complexidade de serviços de saúde
+-44.775534,-4.22935999986095,70,2101202,BACABAL,BACABAL,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.040212,-7.53314799975434,71,2101400,BALSAS,BALSAS,,polo de baixa e media complexidade de serviços de saúde
+-45.24638,-5.50816099981944,72,2101608,BARRA DO CORDA,BARRA DO CORDA,,polo de baixa e media complexidade de serviços de saúde
+-42.827102,-2.75020499990943,73,2101707,BARREIRINHAS,BARREIRINHAS,,polo de baixa e media complexidade de serviços de saúde
+-46.020833,-1.20249999996034,74,2102903,CARUTAPERA,CARUTAPERA,,polo de baixa e media complexidade de serviços de saúde
+-43.363897,-4.86215599984045,75,2103000,CAXIAS,CAXIAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-43.356667,-3.74083299987699,76,2103208,CHAPADINHA,CHAPADINHA,,polo de baixa e media complexidade de serviços de saúde
+-43.887603,-4.45285599985374,77,2103307,CODO,CODO,,polo de baixa e media complexidade de serviços de saúde
+-43.014363,-4.2557649998601,78,2103406,COELHO NETO,COELHO NETO,,polo de baixa e media complexidade de serviços de saúde
+-44.249651,-6.02562199980274,79,2103505,COLINAS,COLINAS,,polo de baixa e media complexidade de serviços de saúde
+-44.127609,-4.12827399986425,80,2103604,COROATA,COROATA,,polo de baixa e media complexidade de serviços de saúde
+-44.875351,-1.82323099993993,81,2103703,CURURUPU,CURURUPU,,polo de baixa e media complexidade de serviços de saúde
+-45.8871,-2.13030999992982,82,2104677,GOVERNADOR NUNES FREIRE,GOVERNADOR NUNES FREIRE,,polo de baixa e media complexidade de serviços de saúde
+-46.143315,-5.8169239998094,83,2104800,GRAJAU,GRAJAU,,polo de baixa e media complexidade de serviços de saúde
+-43.461631,-2.59712299991448,84,2105005,HUMBERTO DE CAMPOS,HUMBERTO DE CAMPOS,,polo de baixa e media complexidade de serviços de saúde
+-47.49006,-5.52731699981882,85,2105302,IMPERATRIZ,IMPERATRIZ,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-45.12721,-4.56670199985005,86,2105708,LAGO DA PEDRA,LAGO DA PEDRA,,polo de baixa e media complexidade de serviços de saúde
+-44.551667,-3.63111099988049,87,2106631,MATOES DO NORTE,MATOES DO NORTE,Polo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-44.3608,-6.37203999979155,88,2106706,MIRADOR,MIRADOR,,polo de baixa e media complexidade de serviços de saúde
+-44.041972,-2.86580799990554,89,2107100,MORROS,MORROS,,polo de baixa e media complexidade de serviços de saúde
+-44.603383,-4.57007799984994,90,2108207,PEDREIRAS,PEDREIRAS,,polo de baixa e media complexidade de serviços de saúde
+-44.339448,-4.37814799985618,91,2108454,PERITORO,PERITORO,,polo de baixa e media complexidade de serviços de saúde
+-45.08392,-2.52274099991679,92,2108603,PINHEIRO,PINHEIRO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.407267,-6.33840799979268,93,2109007,PORTO FRANCO,PORTO FRANCO,,subpolo de baixa e media complexidade de serviços de saúde
+-44.491388,-5.28399599982667,94,2109106,PRESIDENTE DUTRA,PRESIDENTE DUTRA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-45.382472,-3.66641999987943,95,2109908,SANTA INES,SANTA INES,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.358578,-4.86901399984019,96,2110302,SANTO ANTONIO DOS LOPES,SANTO ANTONIO DOS LOPES,,polo de baixa e media complexidade de serviços de saúde
+-43.701883,-6.49868299978748,97,2111102,SAO JOAO DOS PATOS,SAO JOAO DOS PATOS,,polo de baixa e media complexidade de serviços de saúde
+-44.297919,-2.5318859999166,98,2111300,SAO LUIS,SAO LUIS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.627889,-4.56923899984993,99,2112233,TRIZIDELA DO VALE,TRIZIDELA DO VALE,,subpolo de baixa e media complexidade de serviços de saúde
+-44.6476,-5.25750999982755,100,2112308,TUNTUM,TUNTUM,Polo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-43.403056,-3.20749999989437,101,2112605,URBANO SANTOS,URBANO SANTOS,,polo de baixa e media complexidade de serviços de saúde
+-45.246018,-4.29261599985885,102,2113009,VITORINO FREIRE,VITORINO FREIRE,,polo de baixa e media complexidade de serviços de saúde
+-45.653794,-3.27592799989211,103,2114007,ZE DOCA,ZE DOCA,,polo de baixa e media complexidade de serviços de saúde
+-42.636383,-5.89269199980699,104,2200202,AGUA BRANCA,AGUA BRANCA,,polo de baixa e media complexidade de serviços de saúde
+-42.852853,-6.24481999979569,105,2200509,AMARANTE,AMARANTE,,polo de baixa e media complexidade de serviços de saúde
+-42.295611,-4.24680399986039,106,2201200,BARRAS,BARRAS,,polo de baixa e media complexidade de serviços de saúde
+-44.359757,-9.07227799970567,107,2201903,BOM JESUS,BOM JESUS,,polo de baixa e media complexidade de serviços de saúde
+-42.166875,-4.82547799984153,108,2202208,CAMPO MAIOR,CAMPO MAIOR,,polo de baixa e media complexidade de serviços de saúde
+-42.944335,-8.11085899973609,109,2202307,CANTO DO BURITI,CANTO DO BURITI,,polo de baixa e media complexidade de serviços de saúde
+-41.549023,-5.3222429998255,110,2202604,CASTELO DO PIAUI,CASTELO DO PIAUI,,polo de baixa e media complexidade de serviços de saúde
+-45.178598,-10.4354269996634,111,2202901,CORRENTE,CORRENTE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.30326,-10.0355329996758,112,2203206,CURIMATA,CURIMATA,,polo de baixa e media complexidade de serviços de saúde
+-42.236037,-3.89785199987185,113,2203701,ESPERANTINA,ESPERANTINA,,polo de baixa e media complexidade de serviços de saúde
+-43.021122,-6.77419799977863,114,2203909,FLORIANO,FLORIANO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.372352,-3.4597589998862,115,2205805,LUZILANDIA,LUZILANDIA,,polo de baixa e media complexidade de serviços de saúde
+-42.610895,-5.56204899981772,116,2206407,MONSENHOR GIL,MONSENHOR GIL,,polo de baixa e media complexidade de serviços de saúde
+-42.13175,-7.01693799977088,117,2207009,OEIRAS,OEIRAS,,polo de baixa e media complexidade de serviços de saúde
+-41.756707,-2.916910999904,118,2207702,PARNAIBA,PARNAIBA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-41.148141,-8.14094399973511,119,2207801,PAULISTANA,PAULISTANA,,polo de baixa e media complexidade de serviços de saúde
+-41.458883,-4.4257569998546,120,2207900,PEDRO II,PEDRO II,,polo de baixa e media complexidade de serviços de saúde
+-41.465704,-7.08504899976875,121,2208007,PICOS,PICOS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-41.710527,-3.93470399987065,122,2208304,PIRACURUCA,PIRACURUCA,,polo de baixa e media complexidade de serviços de saúde
+-41.777271,-4.27441199985948,123,2208403,PIRIPIRI,PIRIPIRI,,polo de baixa e media complexidade de serviços de saúde
+-42.247112,-8.35930999972822,124,2210003,SAO JOAO DO PIAUI,SAO JOAO DO PIAUI,,polo de baixa e media complexidade de serviços de saúde
+-41.321061,-5.50304199981962,125,2210409,SAO MIGUEL DO TAPUIO,SAO MIGUEL DO TAPUIO,,polo de baixa e media complexidade de serviços de saúde
+-42.7203,-5.92729199980594,126,2210508,SAO PEDRO DO PIAUI,SAO PEDRO DO PIAUI,,polo de baixa e media complexidade de serviços de saúde
+-42.688835,-9.0147479997076,127,2210607,SAO RAIMUNDO NONATO,SAO RAIMUNDO NONATO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-41.910204,-7.86045099974403,128,2210805,SIMPLICIO MENDES,SIMPLICIO MENDES,,polo de baixa e media complexidade de serviços de saúde
+-42.817269,-5.09068799983299,129,2211001,TERESINA,TERESINA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.865209,-4.58550499984938,130,2211100,UNIAO,UNIAO,,polo de baixa e media complexidade de serviços de saúde
+-44.555333,-7.22994899976401,131,2211209,URUCUI,URUCUI,,subpolo de baixa e media complexidade de serviços de saúde
+-41.735529,-6.4022269997906,132,2211308,VALENCA DO PIAUI,VALENCA DO PIAUI,,polo de baixa e media complexidade de serviços de saúde
+-37.772753,-4.56706599985004,133,2301109,ARACATI,ARACATI,,polo de baixa e media complexidade de serviços de saúde
+-38.809441,-4.3703939998564,134,2301208,ARACOIABA,ARACOIABA,,polo de baixa e media complexidade de serviços de saúde
+-39.302316,-7.3071719997616,135,2301901,BARBALHA,BARBALHA,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-38.880021,-4.33120499985771,136,2302107,BATURITE,BATURITE,,polo de baixa e media complexidade de serviços de saúde
+-38.985514,-7.49163799975571,137,2302503,BREJO SANTO,BREJO SANTO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.847528,-2.90096699990442,138,2302602,CAMOCIM,CAMOCIM,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.374317,-7.07446599976897,139,2302701,CAMPOS SALES,CAMPOS SALES,,polo de baixa e media complexidade de serviços de saúde
+-39.316129,-4.35415999985693,140,2302800,CANINDE,CANINDE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-38.239686,-4.13143399986412,141,2303501,CASCAVEL,CASCAVEL,,polo de baixa e media complexidade de serviços de saúde
+-38.656561,-3.73395999987723,142,2303709,CAUCAIA,CAUCAIA,,subpolo de baixa e media complexidade de serviços de saúde
+-40.6684,-5.17695099983011,143,2304103,CRATEUS,CRATEUS,,polo de baixa e media complexidade de serviços de saúde
+-39.40839,-7.23175299976401,144,2304202,CRATO,CRATO,,subpolo de baixa e media complexidade de serviços de saúde
+-38.445122,-3.88697299987222,145,2304285,EUSEBIO,EUSEBIO,,subpolo de baixa e media complexidade de serviços de saúde
+-38.525197,-3.72426499987752,146,2304400,FORTALEZA,FORTALEZA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.752633,-4.16245099986318,147,2305001,GUARACIABA DO NORTE,GUARACIABA DO NORTE,,polo de baixa e media complexidade de serviços de saúde
+-38.863085,-6.40303099979059,148,2305407,ICO,ICO,,polo de baixa e media complexidade de serviços de saúde
+-39.299906,-6.36055499979193,149,2305506,IGUATU,IGUATU,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.710452,-4.32326799985789,150,2305803,IPU,IPU,,polo de baixa e media complexidade de serviços de saúde
+-39.583482,-3.49943599988488,151,2306405,ITAPIPOCA,ITAPIPOCA,,polo de baixa e media complexidade de serviços de saúde
+-39.316993,-7.21076599976468,152,2307304,JUAZEIRO DO NORTE,JUAZEIRO DO NORTE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-38.099095,-5.15023899983107,153,2307601,LIMOEIRO DO NORTE,LIMOEIRO DO NORTE,,polo de baixa e media complexidade de serviços de saúde
+-38.624419,-3.87696399987246,154,2307650,MARACANAU,MARACANAU,,subpolo de baixa e media complexidade de serviços de saúde
+-38.685851,-3.89186899987197,155,2307700,MARANGUAPE,MARANGUAPE,,subpolo de baixa e media complexidade de serviços de saúde
+-38.467022,-4.17054099986296,156,2309607,PACAJUS,PACAJUS,,polo de baixa e media complexidade de serviços de saúde
+-39.011745,-4.96369999983713,157,2311306,QUIXADA,QUIXADA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-39.294354,-5.19840499982948,158,2311405,QUIXERAMOBIM,QUIXERAMOBIM,,polo de baixa e media complexidade de serviços de saúde
+-38.729571,-4.22295799986124,159,2311603,REDENCAO,REDENCAO,,subpolo de baixa e media complexidade de serviços de saúde
+-37.975431,-4.93973799983787,160,2311801,RUSSAS,RUSSAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.153508,-4.3332709998576,161,2312205,SANTA QUITERIA,SANTA QUITERIA,,polo de baixa e media complexidade de serviços de saúde
+-40.348668,-3.6880379998786,162,2312908,SOBRAL,SOBRAL,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.292625,-6.00299899980346,163,2313302,TAUA,TAUA,,polo de baixa e media complexidade de serviços de saúde
+-40.991706,-3.72267399987755,164,2313401,TIANGUA,TIANGUA,,polo de baixa e media complexidade de serviços de saúde
+-36.906773,-5.57380299981733,165,2400208,ACU,ACU,,polo de baixa e media complexidade de serviços de saúde
+-37.799307,-5.6650939998144,166,2401008,APODI,APODI,,polo de baixa e media complexidade de serviços de saúde
+-37.09426,-6.46267699978866,167,2402006,CAICO,CAICO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-35.129857,-6.38087099979132,168,2402204,CANGUARETAMA,CANGUARETAMA,,polo de baixa e media complexidade de serviços de saúde
+-35.422964,-5.63661099981532,169,2402600,CEARA-MIRIM,CEARA-MIRIM,,polo de baixa e media complexidade de serviços de saúde
+-36.515076,-6.26285699979504,170,2403103,CURRAIS NOVOS,CURRAIS NOVOS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-35.26546,-5.92449699980592,171,2403251,PARNAMIRIM,PARNAMIRIM,,subpolo de baixa e media complexidade de serviços de saúde
+-35.207628,-6.26711899979494,172,2404200,GOIANINHA,GOIANINHA,,polo de baixa e media complexidade de serviços de saúde
+-36.317672,-5.10713899983248,173,2404507,GUAMARE,GUAMARE,,polo de baixa e media complexidade de serviços de saúde
+-35.815782,-5.53839299981847,174,2405801,JOAO CAMARA,JOAO CAMARA,,polo de baixa e media complexidade de serviços de saúde
+-37.341204,-5.19254099982969,175,2408003,MOSSORO,MOSSORO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-35.208106,-5.78449499981052,176,2408102,NATAL,NATAL,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-35.432306,-6.48078899978811,177,2408300,NOVA CRUZ,NOVA CRUZ,,polo de baixa e media complexidade de serviços de saúde
+-36.658135,-6.68613599978142,178,2408904,PARELHAS,PARELHAS,,polo de baixa e media complexidade de serviços de saúde
+-38.203506,-6.11267099979985,179,2409407,PAU DOS FERROS,PAU DOS FERROS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-36.019515,-6.22981599979619,180,2411205,SANTA CRUZ,SANTA CRUZ,,polo de baixa e media complexidade de serviços de saúde
+-35.477323,-6.30883499979355,181,2411502,SANTO ANTONIO,SANTO ANTONIO,,polo de baixa e media complexidade de serviços de saúde
+-35.237095,-6.07416399980117,182,2412203,SAO JOSE DE MIPIBU,SAO JOSE DE MIPIBU,,subpolo de baixa e media complexidade de serviços de saúde
+-38.498188,-6.21260599979671,183,2412500,SAO MIGUEL,SAO MIGUEL,,polo de baixa e media complexidade de serviços de saúde
+-35.764441,-5.89442299980699,184,2412609,SAO PAULO DO POTENGI,SAO PAULO DO POTENGI,,polo de baixa e media complexidade de serviços de saúde
+-36.129133,-7.48092799975603,185,2502508,BOQUEIRAO,BOQUEIRAO,,subpolo de baixa e media complexidade de serviços de saúde
+-38.558864,-6.88772499977497,186,2503704,CAJAZEIRAS,CAJAZEIRAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-35.889167,-7.22194999976428,187,2504009,CAMPINA GRANDE,CAMPINA GRANDE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-37.746042,-6.34304199979249,188,2504306,CATOLE DO ROCHA,CATOLE DO ROCHA,,polo de baixa e media complexidade de serviços de saúde
+-38.502417,-7.56008899975357,189,2504405,CONCEICAO,CONCEICAO,,polo de baixa e media complexidade de serviços de saúde
+-36.151972,-6.48551699978789,190,2505105,CUITE,CUITE,,subpolo de baixa e media complexidade de serviços de saúde
+-35.489158,-6.85305799977607,191,2506301,GUARABIRA,GUARABIRA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-38.149125,-7.30581699976166,192,2507002,ITAPORANGA,ITAPORANGA,,polo de baixa e media complexidade de serviços de saúde
+-34.890006,-7.1153389997677,193,2507507,JOAO PESSOA,JOAO PESSOA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-35.120197,-6.83570799977665,194,2508901,MAMANGUAPE,MAMANGUAPE,,polo de baixa e media complexidade de serviços de saúde
+-37.125928,-7.89149699974304,195,2509701,MONTEIRO,MONTEIRO,,polo de baixa e media complexidade de serviços de saúde
+-37.276756,-7.02640799977054,196,2510808,PATOS,PATOS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-37.928558,-7.19877799976509,197,2511301,PIANCO,PIANCO,,polo de baixa e media complexidade de serviços de saúde
+-36.351183,-6.5087749997872,198,2511400,PICUI,PICUI,,polo de baixa e media complexidade de serviços de saúde
+-37.798544,-6.77137199977875,199,2512101,POMBAL,POMBAL,,polo de baixa e media complexidade de serviços de saúde
+-37.994414,-7.735182999748,200,2512309,PRINCESA ISABEL,PRINCESA ISABEL,,polo de baixa e media complexidade de serviços de saúde
+-35.230231,-7.09619699976838,201,2515302,SAPE,SAPE,,polo de baixa e media complexidade de serviços de saúde
+-36.660619,-7.483941999756,202,2515500,SERRA BRANCA,SERRA BRANCA,,polo de baixa e media complexidade de serviços de saúde
+-35.655919,-6.76260299977906,203,2516003,SOLANEA,SOLANEA,,polo de baixa e media complexidade de serviços de saúde
+-38.229022,-6.75869199977911,204,2516201,SOUSA,SOUSA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-36.879094,-7.67206399974998,205,2516300,SUME,SUME,,polo de baixa e media complexidade de serviços de saúde
+-36.824314,-7.21121099976463,206,2516508,TAPEROA,TAPEROA,,polo de baixa e media complexidade de serviços de saúde
+-37.638404,-7.75017499974754,207,2600104,AFOGADOS DA INGAZEIRA,AFOGADOS DA INGAZEIRA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.498129,-7.57709999975299,208,2601102,ARARIPINA,ARARIPINA,,subpolo de baixa e media complexidade de serviços de saúde
+-37.0535,-8.41927999972629,209,2601201,ARCOVERDE,ARCOVERDE,,polo de baixa e media complexidade de serviços de saúde
+-35.194229,-8.81605499971384,210,2601409,BARREIROS,BARREIROS,,polo de baixa e media complexidade de serviços de saúde
+-35.039298,-8.28826699973049,211,2602902,CABO DE SANTO AGOSTINHO,CABO DE SANTO AGOSTINHO,,subpolo de baixa e media complexidade de serviços de saúde
+-35.255233,-7.84622799974441,212,2604007,CARPINA,CARPINA,,polo de baixa e media complexidade de serviços de saúde
+-35.969601,-8.28636799973045,213,2604106,CARUARU,CARUARU,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-35.2382,-8.36253999972815,214,2605202,ESCADA,ESCADA,,polo de baixa e media complexidade de serviços de saúde
+-38.5685,-8.60177999972048,215,2605707,FLORESTA,FLORESTA,,polo de baixa e media complexidade de serviços de saúde
+-36.4962,-8.89112999971145,216,2606002,GARANHUNS,GARANHUNS,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-34.9908,-7.56099999975351,217,2606200,GOIANA,GOIANA,,polo de baixa e media complexidade de serviços de saúde
+-35.019568,-8.10997699973612,218,2607901,JABOATAO DOS GUARARAPES,JABOATAO DOS GUARARAPES,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-35.4535,-7.87695999974343,219,2608909,LIMOEIRO,LIMOEIRO,,polo de baixa e media complexidade de serviços de saúde
+-40.080818,-7.8839929997432,220,2609907,OURICURI,OURICURI,,polo de baixa e media complexidade de serviços de saúde
+-35.584871,-8.68069299971811,221,2610004,PALMARES,PALMARES,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-36.6962,-8.35738999972824,222,2610905,PESQUEIRA,PESQUEIRA,,polo de baixa e media complexidade de serviços de saúde
+-38.21952,-8.97981799970871,223,2611002,PETROLANDIA,PETROLANDIA,,polo de baixa e media complexidade de serviços de saúde
+-40.5011,-9.4017199996955,224,2611101,PETROLINA,PETROLINA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-34.888942,-8.06276199973756,225,2611606,RECIFE,RECIFE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-39.11954,-8.07431299973725,226,2612208,SALGUEIRO,SALGUEIRO,,polo de baixa e media complexidade de serviços de saúde
+-36.199492,-7.95901799974085,227,2612505,SANTA CRUZ DO CAPIBARIBE,SANTA CRUZ DO CAPIBARIBE,,polo de baixa e media complexidade de serviços de saúde
+-38.302143,-7.99173499973986,228,2613909,SERRA TALHADA,SERRA TALHADA,,polo de baixa e media complexidade de serviços de saúde
+-35.7582,-7.83640999974478,229,2614501,SURUBIM,SURUBIM,,polo de baixa e media complexidade de serviços de saúde
+-35.3185,-7.51009999975517,230,2615300,TIMBAUBA,TIMBAUBA,,polo de baixa e media complexidade de serviços de saúde
+-35.2945,-8.11763999973586,231,2616407,VITORIA DE SANTO ANTAO,VITORIA DE SANTO ANTAO,,polo de baixa e media complexidade de serviços de saúde
+-36.662125,-9.75094999968455,232,2700300,ARAPIRACA,ARAPIRACA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-36.074961,-9.41546399969504,233,2701704,CAPELA,CAPELA,,polo de baixa e media complexidade de serviços de saúde
+-36.175694,-10.126818999673,234,2702306,CORURIPE,CORURIPE,,polo de baixa e media complexidade de serviços de saúde
+-37.997267,-9.38109999969614,235,2702405,DELMIRO GOUVEIA,DELMIRO GOUVEIA,,polo de baixa e media complexidade de serviços de saúde
+-35.739361,-9.66033599968741,236,2704302,MACEIO,MACEIO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-35.221064,-9.01205299970755,237,2704500,MARAGOGI,MARAGOGI,,polo de baixa e media complexidade de serviços de saúde
+-36.629269,-9.40437199969544,238,2706307,PALMEIRA DOS INDIOS,PALMEIRA DOS INDIOS,,polo de baixa e media complexidade de serviços de saúde
+-36.585983,-10.2892389996679,239,2706703,PENEDO,PENEDO,,polo de baixa e media complexidade de serviços de saúde
+-35.39845,-9.05509399970628,240,2707305,PORTO CALVO,PORTO CALVO,,polo de baixa e media complexidade de serviços de saúde
+-37.243194,-9.37200299969637,241,2708006,SANTANA DO IPANEMA,SANTANA DO IPANEMA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-36.032367,-9.15832799970302,242,2709301,UNIAO DOS PALMARES,UNIAO DOS PALMARES,,polo de baixa e media complexidade de serviços de saúde
+-36.243181,-9.37469699969636,243,2709400,VICOSA,VICOSA,,polo de baixa e media complexidade de serviços de saúde
+-37.051439,-10.9132669996487,244,2800308,ARACAJU,ARACAJU,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-37.626347,-11.1478459996416,245,2800670,BOQUIM,BOQUIM,,polo de baixa e media complexidade de serviços de saúde
+-37.437799,-11.2681919996379,246,2802106,ESTANCIA,ESTANCIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-37.42714,-10.6855209996557,247,2802908,ITABAIANA,ITABAIANA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-37.671404,-10.9142459996486,248,2803500,LAGARTO,LAGARTO,,polo de baixa e media complexidade de serviços de saúde
+-36.577412,-10.3163199996671,249,2804409,NEOPOLIS,NEOPOLIS,,subpolo de baixa e media complexidade de serviços de saúde
+-37.419979,-10.2192809996701,250,2804508,NOSSA SENHORA DA GLORIA,NOSSA SENHORA DA GLORIA,,polo de baixa e media complexidade de serviços de saúde
+-37.193342,-10.4926509996616,251,2804607,NOSSA SENHORA DAS DORES,NOSSA SENHORA DAS DORES,,polo de baixa e media complexidade de serviços de saúde
+-37.279473,-9.91501399967945,252,2805604,PORTO DA FOLHA,PORTO DA FOLHA,,polo de baixa e media complexidade de serviços de saúde
+-36.833077,-10.2099939996704,253,2805703,PROPRIA,PROPRIA,,polo de baixa e media complexidade de serviços de saúde
+-38.424449,-12.1376809996115,254,2900702,ALAGOINHAS,ALAGOINHAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-39.603021,-13.0321429995849,255,2901007,AMARGOSA,AMARGOSA,,subpolo de baixa e media complexidade de serviços de saúde
+-43.144953,-11.0919439996433,256,2902708,BARRA,BARRA,,polo de baixa e media complexidade de serviços de saúde
+-44.994514,-12.1466509996113,257,2903201,BARREIRAS,BARREIRAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-43.420178,-13.2554299995783,258,2903904,BOM JESUS DA LAPA,BOM JESUS DA LAPA,,polo de baixa e media complexidade de serviços de saúde
+-41.669881,-14.2039749995506,259,2904605,BRUMADO,BRUMADO,,polo de baixa e media complexidade de serviços de saúde
+-38.963224,-12.6037199995977,260,2904902,CACHOEIRA,CACHOEIRA,,polo de baixa e media complexidade de serviços de saúde
+-42.220317,-14.5074719995418,261,2905008,CACULE,CACULE,,polo de baixa e media complexidade de serviços de saúde
+-39.494578,-15.4218169995156,262,2905602,CAMACAN,CAMACAN,,polo de baixa e media complexidade de serviços de saúde
+-38.320175,-12.7058469995946,263,2905701,CAMACARI,CAMACARI,,subpolo de baixa e media complexidade de serviços de saúde
+-40.320758,-10.5086529996612,264,2906006,CAMPO FORMOSO,CAMPO FORMOSO,,polo de baixa e media complexidade de serviços de saúde
+-38.537497,-12.6458939995964,265,2906501,CANDEIAS,CANDEIAS,,subpolo de baixa e media complexidade de serviços de saúde
+-40.006878,-11.3789749996345,266,2906873,CAPIM GROSSO,CAPIM GROSSO,,polo de baixa e media complexidade de serviços de saúde
+-38.375835,-12.3549479996051,267,2907509,CATU,CATU,,polo de baixa e media complexidade de serviços de saúde
+-39.281415,-11.5713799996286,268,2908408,CONCEICAO DO COITE,CONCEICAO DO COITE,,polo de baixa e media complexidade de serviços de saúde
+-44.623451,-13.3434099995758,269,2909307,CORRENTINA,CORRENTINA,,subpolo de baixa e media complexidade de serviços de saúde
+-39.107361,-12.6771059995955,270,2909802,CRUZ DAS ALMAS,CRUZ DAS ALMAS,,subpolo de baixa e media complexidade de serviços de saúde
+-39.009997,-10.5021469996614,271,2910701,EUCLIDES DA CUNHA,EUCLIDES DA CUNHA,,polo de baixa e media complexidade de serviços de saúde
+-39.584172,-16.3751669994889,272,2910727,EUNAPOLIS,EUNAPOLIS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-38.965161,-12.255593999608,273,2910800,FEIRA DE SANTANA,FEIRA DE SANTANA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-39.489164,-13.745071999564,274,2911204,GANDU,GANDU,,polo de baixa e media complexidade de serviços de saúde
+-42.781731,-14.2196939995501,275,2911709,GUANAMBI,GUANAMBI,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-43.221656,-12.1859999996101,276,2913200,IBOTIRAMA,IBOTIRAMA,,polo de baixa e media complexidade de serviços de saúde
+-39.033961,-14.7978439995334,277,2913606,ILHEUS,ILHEUS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-39.736739,-14.1359609995525,278,2913903,IPIAU,IPIAU,,polo de baixa e media complexidade de serviços de saúde
+-41.618439,-12.2438669996084,279,2914406,IRAQUARA,IRAQUARA,,polo de baixa e media complexidade de serviços de saúde
+-41.857885,-11.3029539996369,280,2914604,IRECE,IRECE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.305387,-12.5318109995998,281,2914703,ITABERABA,ITABERABA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-39.276742,-14.8052579995332,282,2914802,ITABUNA,ITABUNA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.248303,-15.2450749995207,283,2916401,ITAPETINGA,ITAPETINGA,,polo de baixa e media complexidade de serviços de saúde
+-40.069869,-15.1200669995243,284,2917102,ITORORO,ITORORO,,polo de baixa e media complexidade de serviços de saúde
+-40.509717,-11.1833609996405,285,2917508,JACOBINA,JACOBINA,,polo de baixa e media complexidade de serviços de saúde
+-39.969245,-13.5269799995703,286,2917607,JAGUAQUARA,JAGUAQUARA,,polo de baixa e media complexidade de serviços de saúde
+-40.073017,-13.8725389995602,287,2918001,JEQUIE,JEQUIE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.505118,-9.41117599969521,288,2918407,JUAZEIRO,JUAZEIRO,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-41.841531,-13.6510169995667,289,2919504,LIVRAMENTO DE NOSSA SENHORA,LIVRAMENTO DE NOSSA SENHORA,,polo de baixa e media complexidade de serviços de saúde
+-42.695025,-13.0181559995853,290,2919801,MACAUBAS,MACAUBAS,,polo de baixa e media complexidade de serviços de saúde
+-40.432812,-13.4405619995729,291,2920502,MARACAS,MARACAS,,polo de baixa e media complexidade de serviços de saúde
+-42.238461,-13.4408689995729,292,2923605,PARAMIRIM,PARAMIRIM,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-38.226915,-9.39931599969551,293,2924009,PAULO AFONSO,PAULO AFONSO,,polo de baixa e media complexidade de serviços de saúde
+-39.625261,-10.9795939996468,294,2925808,QUEIMADAS,QUEIMADAS,,polo de baixa e media complexidade de serviços de saúde
+-42.080806,-9.62544199968849,295,2926004,REMANSO,REMANSO,,polo de baixa e media complexidade de serviços de saúde
+-38.541935,-10.8453659996508,296,2926608,RIBEIRA DO POMBAL,RIBEIRA DO POMBAL,,polo de baixa e media complexidade de serviços de saúde
+-37.926306,-11.4880559996312,297,2927002,RIO REAL,RIO REAL,,polo de baixa e media complexidade de serviços de saúde
+-40.494905,-12.2869769996071,298,2927200,RUY BARBOSA,RUY BARBOSA,,polo de baixa e media complexidade de serviços de saúde
+-38.512378,-12.9741849995866,299,2927408,SALVADOR,SALVADOR,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.190975,-13.3846889995744,300,2928109,SANTA MARIA DA VITORIA,SANTA MARIA DA VITORIA,,polo de baixa e media complexidade de serviços de saúde
+-38.709425,-12.5485939995992,301,2928604,SANTO AMARO,SANTO AMARO,,polo de baixa e media complexidade de serviços de saúde
+-39.265697,-12.9664359995869,302,2928703,SANTO ANTONIO DE JESUS,SANTO ANTONIO DE JESUS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-38.969541,-12.6065729995975,303,2929008,SAO FELIX,SAO FELIX,,subpolo de baixa e media complexidade de serviços de saúde
+-41.768017,-12.4188139996031,304,2929909,SEABRA,SEABRA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.191272,-10.4619559996626,305,2930105,SENHOR DO BONFIM,SENHOR DO BONFIM,,polo de baixa e media complexidade de serviços de saúde
+-39.009225,-11.660163999626,306,2930501,SERRINHA,SERRINHA,,polo de baixa e media complexidade de serviços de saúde
+-39.73894,-17.5385089994571,307,2931350,TEIXEIRA DE FREITAS,TEIXEIRA DE FREITAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-41.094183,-12.0831469996133,308,2932804,UTINGA,UTINGA,,polo de baixa e media complexidade de serviços de saúde
+-39.071448,-13.3708229995749,309,2932903,VALENCA,VALENCA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-39.463943,-11.4101829996336,310,2933000,VALENTE,VALENTE,,polo de baixa e media complexidade de serviços de saúde
+-40.837046,-14.8497369995319,311,2933307,VITORIA DA CONQUISTA,VITORIA DA CONQUISTA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-45.448004,-19.1571439994145,312,3100203,ABAETE,ABAETE,,polo de baixa e media complexidade de serviços de saúde
+-40.933935,-17.0835139994695,313,3100906,AGUAS FORMOSAS,AGUAS FORMOSAS,,polo de baixa e media complexidade de serviços de saúde
+-44.605398,-21.9779499993444,314,3101201,AIURUOCA,AIURUOCA,,polo de baixa e media complexidade de serviços de saúde
+-42.676462,-21.873295999347,315,3101508,ALEM PARAIBA,ALEM PARAIBA,,polo de baixa e media complexidade de serviços de saúde
+-45.94973,-21.4250759993577,316,3101607,ALFENAS,ALFENAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.694367,-16.1830049994943,317,3101706,ALMENARA,ALMENARA,,polo de baixa e media complexidade de serviços de saúde
+-46.570913,-22.0694389993423,318,3102605,ANDRADAS,ANDRADAS,,polo de baixa e media complexidade de serviços de saúde
+-42.061783,-16.8550849994757,319,3103405,ARACUAI,ARACUAI,,polo de baixa e media complexidade de serviços de saúde
+-48.197287,-18.6442239994278,320,3103504,ARAGUARI,ARAGUARI,,polo de baixa e media complexidade de serviços de saúde
+-46.937511,-19.5932529994031,321,3104007,ARAXA,ARAXA,,polo de baixa e media complexidade de serviços de saúde
+-44.890356,-21.9595509993449,322,3104908,BAEPENDI,BAEPENDI,,subpolo de baixa e media complexidade de serviços de saúde
+-45.978943,-20.0115069993926,323,3105103,BAMBUI,BAMBUI,,polo de baixa e media complexidade de serviços de saúde
+-43.773751,-21.2259969993626,324,3105608,BARBACENA,BARBACENA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-43.977152,-21.1871139993635,325,3105905,BARROSO,BARROSO,,polo de baixa e media complexidade de serviços de saúde
+-43.936326,-19.9236559993948,326,3106200,BELO HORIZONTE,BELO HORIZONTE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.207449,-19.9698299993937,327,3106705,BETIM,BETIM,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-43.06274,-21.7173779993507,328,3106903,BICAS,BICAS,,subpolo de baixa e media complexidade de serviços de saúde
+-45.562942,-21.0926029993658,329,3107109,BOA ESPERANCA,BOA ESPERANCA,,polo de baixa e media complexidade de serviços de saúde
+-43.815138,-17.1077609994689,330,3107307,BOCAIUVA,BOCAIUVA,,polo de baixa e media complexidade de serviços de saúde
+-45.252124,-19.7372819993995,331,3107406,BOM DESPACHO,BOM DESPACHO,,polo de baixa e media complexidade de serviços de saúde
+-44.761141,-21.0369249993672,332,3108008,BOM SUCESSO,BOM SUCESSO,,polo de baixa e media complexidade de serviços de saúde
+-44.432685,-16.2100079994936,333,3108602,BRASILIA DE MINAS,BRASILIA DE MINAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.198249,-20.1426829993892,334,3109006,BRUMADINHO,BRUMADINHO,,subpolo de baixa e media complexidade de serviços de saúde
+-43.670746,-19.8985069993954,335,3110004,CAETE,CAETE,,subpolo de baixa e media complexidade de serviços de saúde
+-46.057584,-22.6118109993296,336,3110608,CAMBUI,CAMBUI,,polo de baixa e media complexidade de serviços de saúde
+-45.276951,-20.8933919993707,337,3111200,CAMPO BELO,CAMPO BELO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.516922,-17.6926009994531,338,3112307,CAPELINHA,CAPELINHA,,polo de baixa e media complexidade de serviços de saúde
+-42.029409,-20.7335349993746,339,3113305,CARANGOLA,CARANGOLA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.139956,-19.7901829993982,340,3113404,CARATINGA,CARATINGA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.921753,-20.5840039993782,341,3115102,CASSIA,CASSIA,,polo de baixa e media complexidade de serviços de saúde
+-42.697193,-21.3892679993586,342,3115300,CATAGUASES,CATAGUASES,,polo de baixa e media complexidade de serviços de saúde
+-44.934638,-21.9791159993444,343,3115508,CAXAMBU,CAXAMBU,,polo de baixa e media complexidade de serviços de saúde
+-43.42569,-19.0364769994176,344,3117504,CONCEICAO DO MATO DENTRO,CONCEICAO DO MATO DENTRO,,polo de baixa e media complexidade de serviços de saúde
+-43.785666,-20.6602999993763,345,3118304,CONSELHEIRO LAFAIETE,CONSELHEIRO LAFAIETE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.092764,-19.9192029993949,346,3118601,CONTAGEM,CONTAGEM,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-44.362639,-16.6880819994803,347,3118809,CORACAO DE JESUS,CORACAO DE JESUS,,polo de baixa e media complexidade de serviços de saúde
+-42.624454,-19.5273089994049,348,3119401,CORONEL FABRICIANO,CORONEL FABRICIANO,,subpolo de baixa e media complexidade de serviços de saúde
+-44.810088,-21.8413829993477,349,3120805,CRUZILIA,CRUZILIA,,polo de baixa e media complexidade de serviços de saúde
+-44.428343,-18.752356999425,350,3120904,CURVELO,CURVELO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-43.597311,-18.2448269994383,351,3121605,DIAMANTINA,DIAMANTINA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.910849,-20.1703409993885,352,3122306,DIVINOPOLIS,DIVINOPOLIS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-45.602105,-19.4628369994066,353,3123205,DORES DO INDAIA,DORES DO INDAIA,,polo de baixa e media complexidade de serviços de saúde
+-44.065693,-20.6719009993761,354,3123908,ENTRE RIOS DE MINAS,ENTRE RIOS DE MINAS,,subpolo de baixa e media complexidade de serviços de saúde
+-41.908604,-20.6507529993767,355,3124203,ESPERA FELIZ,ESPERA FELIZ,,polo de baixa e media complexidade de serviços de saúde
+-46.318876,-22.855046999324,356,3125101,EXTREMA,EXTREMA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.761535,-16.6396929994817,357,3125606,FELISBURGO,FELISBURGO,,polo de baixa e media complexidade de serviços de saúde
+-45.429591,-20.4649769993813,358,3126109,FORMIGA,FORMIGA,,polo de baixa e media complexidade de serviços de saúde
+-43.490023,-16.4760859994861,359,3126703,FRANCISCO SA,FRANCISCO SA,,polo de baixa e media complexidade de serviços de saúde
+-48.935847,-20.0285739993921,360,3127107,FRUTAL,FRUTAL,,polo de baixa e media complexidade de serviços de saúde
+-41.944972,-18.8584419994222,361,3127701,GOVERNADOR VALADARES,GOVERNADOR VALADARES,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.937133,-18.7773349994243,362,3128006,GUANHAES,GUANHAES,,polo de baixa e media complexidade de serviços de saúde
+-46.71216,-21.3055539993606,363,3128709,GUAXUPE,GUAXUPE,,polo de baixa e media complexidade de serviços de saúde
+-42.122141,-19.5502819994043,364,3130903,INHAPIM,INHAPIM,,polo de baixa e media complexidade de serviços de saúde
+-41.714334,-19.8007589993979,365,3131208,IPANEMA,IPANEMA,,polo de baixa e media complexidade de serviços de saúde
+-42.527758,-19.4792049994061,366,3131307,IPATINGA,IPATINGA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-43.221022,-19.6251009994024,367,3131703,ITABIRA,ITABIRA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-43.799855,-20.2549969993865,368,3131901,ITABIRITO,ITABIRITO,,polo de baixa e media complexidade de serviços de saúde
+-45.452787,-22.425932999334,369,3132404,ITAJUBA,ITAJUBA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.858226,-17.8567879994486,370,3132503,ITAMARANDIBA,ITAMARANDIBA,,polo de baixa e media complexidade de serviços de saúde
+-41.685135,-18.032398999444,371,3132701,ITAMBACURI,ITAMBACURI,,polo de baixa e media complexidade de serviços de saúde
+-41.502515,-16.5620159994838,372,3133303,ITAOBIM,ITAOBIM,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.577016,-20.0734899993911,373,3133808,ITAUNA,ITAUNA,,polo de baixa e media complexidade de serviços de saúde
+-49.464334,-18.9693589994193,374,3134202,ITUIUTABA,ITUIUTABA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.193551,-19.7272409993998,375,3134400,ITURAMA,ITURAMA,,polo de baixa e media complexidade de serviços de saúde
+-43.307145,-15.7984339995051,376,3135100,JANAUBA,JANAUBA,,polo de baixa e media complexidade de serviços de saúde
+-44.362368,-15.4886619995138,377,3135209,JANUARIA,JANUARIA,,polo de baixa e media complexidade de serviços de saúde
+-43.176255,-19.8107809993977,378,3136207,JOAO MONLEVADE,JOAO MONLEVADE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-43.350571,-21.7611339993496,379,3136702,JUIZ DE FORA,JUIZ DE FORA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-45.544204,-20.0229999993923,380,3137205,LAGOA DA PRATA,LAGOA DA PRATA,,subpolo de baixa e media complexidade de serviços de saúde
+-44.999928,-21.2449539993621,381,3138203,LAVRAS,LAVRAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.644022,-21.5303909993551,382,3138401,LEOPOLDINA,LEOPOLDINA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-43.792015,-21.8391279993478,383,3138609,LIMA DUARTE,LIMA DUARTE,,polo de baixa e media complexidade de serviços de saúde
+-45.685931,-19.8011359993979,384,3138807,LUZ,LUZ,,polo de baixa e media complexidade de serviços de saúde
+-42.079121,-17.843778999449,385,3139201,MALACACHETA,MALACACHETA,,polo de baixa e media complexidade de serviços de saúde
+-43.933577,-14.7565249995347,386,3139300,MANGA,MANGA,,polo de baixa e media complexidade de serviços de saúde
+-42.03448,-20.2570009993865,387,3139409,MANHUACU,MANHUACU,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.981839,-18.7829889994242,388,3139607,MANTENA,MANTENA,,polo de baixa e media complexidade de serviços de saúde
+-43.010041,-21.8672289993471,389,3139805,MAR DE ESPANHA,MAR DE ESPANHA,,polo de baixa e media complexidade de serviços de saúde
+-44.367573,-14.4220909995442,390,3142700,MONTALVANIA,MONTALVANIA,,polo de baixa e media complexidade de serviços de saúde
+-42.871208,-15.1532099995233,391,3142908,MONTE AZUL,MONTE AZUL,,polo de baixa e media complexidade de serviços de saúde
+-47.496754,-18.7293249994256,392,3143104,MONTE CARMELO,MONTE CARMELO,,polo de baixa e media complexidade de serviços de saúde
+-43.870771,-16.7305799994792,393,3143302,MONTES CLAROS,MONTES CLAROS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.370185,-21.1280729993649,394,3143906,MURIAE,MURIAE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.350637,-17.8389789994491,395,3144300,NANUQUE,NANUQUE,,polo de baixa e media complexidade de serviços de saúde
+-43.84742,-19.9854959993933,396,3144805,NOVA LIMA,NOVA LIMA,,subpolo de baixa e media complexidade de serviços de saúde
+-44.827624,-20.6972109993755,397,3145604,OLIVEIRA,OLIVEIRA,,polo de baixa e media complexidade de serviços de saúde
+-43.691925,-20.5209589993799,398,3145901,OURO BRANCO,OURO BRANCO,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-46.369438,-22.2820119993373,399,3146008,OURO FINO,OURO FINO,,polo de baixa e media complexidade de serviços de saúde
+-43.503577,-20.3853699993833,400,3146107,OURO PRETO,OURO PRETO,,polo de baixa e media complexidade de serviços de saúde
+-41.484267,-17.0758439994697,401,3146305,PADRE PARAISO,PADRE PARAISO,,subpolo de baixa e media complexidade de serviços de saúde
+-44.60769,-19.8597429993965,402,3147105,PARA DE MINAS,PARA DE MINAS,,polo de baixa e media complexidade de serviços de saúde
+-45.78023,-22.5495099993311,403,3147303,PARAISOPOLIS,PARAISOPOLIS,,polo de baixa e media complexidade de serviços de saúde
+-43.138267,-19.3524389994093,404,3147501,PASSABEM,PASSABEM,,polo de baixa e media complexidade de serviços de saúde
+-46.609057,-20.7222979993749,405,3147907,PASSOS,PASSOS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.51707,-18.5883599994292,406,3148004,PATOS DE MINAS,PATOS DE MINAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.987399,-18.94390699942,407,3148103,PATROCINIO,PATROCINIO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.559942,-18.5479719994303,408,3148608,PECANHA,PECANHA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-41.279547,-16.0060129994993,409,3148707,PEDRA AZUL,PEDRA AZUL,,polo de baixa e media complexidade de serviços de saúde
+-44.040519,-19.6200039994025,410,3149309,PEDRO LEOPOLDO,PEDRO LEOPOLDO,,subpolo de baixa e media complexidade de serviços de saúde
+-44.948339,-17.3513839994622,411,3151206,PIRAPORA,PIRAPORA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.89313,-19.681908999401,412,3151404,PITANGUI,PITANGUI,,subpolo de baixa e media complexidade de serviços de saúde
+-45.96108,-20.4682829993812,413,3151503,PIUMHI,PIUMHI,,polo de baixa e media complexidade de serviços de saúde
+-46.568116,-21.7863569993491,414,3151800,POCOS DE CALDAS,POCOS DE CALDAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.908825,-20.4162399993824,415,3152105,PONTE NOVA,PONTE NOVA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-43.02811,-15.7466369995066,416,3152204,PORTEIRINHA,PORTEIRINHA,,polo de baixa e media complexidade de serviços de saúde
+-45.936555,-22.2302849993385,417,3152501,POUSO ALEGRE,POUSO ALEGRE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.972474,-22.1947889993394,418,3152600,POUSO ALTO,POUSO ALTO,,subpolo de baixa e media complexidade de serviços de saúde
+-41.255828,-19.3239209994101,419,3154309,RESPLENDOR,RESPLENDOR,,polo de baixa e media complexidade de serviços de saúde
+-43.179833,-21.2748649993613,420,3155801,RIO POMBA,RIO POMBA,,polo de baixa e media complexidade de serviços de saúde
+-47.440993,-19.8659479993963,421,3156908,SACRAMENTO,SACRAMENTO,,polo de baixa e media complexidade de serviços de saúde
+-42.290293,-16.1703569994947,422,3157005,SALINAS,SALINAS,,polo de baixa e media complexidade de serviços de saúde
+-43.850645,-19.7702659993987,423,3157807,SANTA LUZIA,SANTA LUZIA,,subpolo de baixa e media complexidade de serviços de saúde
+-42.418474,-18.1895119994397,424,3158201,SANTA MARIA DO SUACUI,SANTA MARIA DO SUACUI,,polo de baixa e media complexidade de serviços de saúde
+-44.866073,-15.9492969995009,425,3161106,SAO FRANCISCO,SAO FRANCISCO,,polo de baixa e media complexidade de serviços de saúde
+-46.048707,-19.3106609994104,426,3162104,SAO GOTARDO,SAO GOTARDO,,polo de baixa e media complexidade de serviços de saúde
+-44.259732,-21.1357719993647,427,3162500,SAO JOAO DEL REI,SAO JOAO DEL REI,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.76699,-18.5488959994303,428,3162807,SAO JOAO EVANGELISTA,SAO JOAO EVANGELISTA,,polo de baixa e media complexidade de serviços de saúde
+-43.010657,-21.5407079993549,429,3162906,SAO JOAO NEPOMUCENO,SAO JOAO NEPOMUCENO,,polo de baixa e media complexidade de serviços de saúde
+-45.052317,-22.1138489993412,430,3163706,SAO LOURENCO,SAO LOURENCO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.984023,-20.92149499937,431,3164704,SAO SEBASTIAO DO PARAISO,SAO SEBASTIAO DO PARAISO,,polo de baixa e media complexidade de serviços de saúde
+-43.382478,-18.6049029994288,432,3167103,SERRO,SERRO,,polo de baixa e media complexidade de serviços de saúde
+-44.244975,-19.4623469994066,433,3167202,SETE LAGOAS,SETE LAGOAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.231716,-15.8112359995047,434,3168002,TAIOBEIRAS,TAIOBEIRAS,,polo de baixa e media complexidade de serviços de saúde
+-41.508222,-17.8646959994484,435,3168606,TEOFILO OTONI,TEOFILO OTONI,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.643017,-19.5771409994036,436,3168705,TIMOTEO,TIMOTEO,,subpolo de baixa e media complexidade de serviços de saúde
+-45.251481,-21.6927939993513,437,3169307,TRES CORACOES,TRES CORACOES,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-45.512669,-21.3665849993591,438,3169406,TRES PONTAS,TRES PONTAS,,polo de baixa e media complexidade de serviços de saúde
+-42.731889,-17.2868259994639,439,3169703,TURMALINA,TURMALINA,,polo de baixa e media complexidade de serviços de saúde
+-42.942482,-21.1200909993651,440,3169901,UBA,UBA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.936618,-19.7502289993992,441,3170107,UBERABA,UBERABA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.256693,-18.9120889994207,442,3170206,UBERLANDIA,UBERLANDIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.902348,-16.3611679994894,443,3170404,UNAI,UNAI,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-45.43552,-21.5567959993545,444,3170701,VARGINHA,VARGINHA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.734015,-17.6004759994556,445,3170800,VARZEA DA PALMA,VARZEA DA PALMA,,polo de baixa e media complexidade de serviços de saúde
+-43.91994,-19.6925069994006,446,3171204,VESPASIANO,VESPASIANO,,subpolo de baixa e media complexidade de serviços de saúde
+-42.881516,-20.7535989993741,447,3171303,VICOSA,VICOSA,,polo de baixa e media complexidade de serviços de saúde
+-42.83969,-21.0102699993677,448,3172004,VISCONDE DO RIO BRANCO,VISCONDE DO RIO BRANCO,,polo de baixa e media complexidade de serviços de saúde
+-40.63417,-20.8121889993726,449,3200409,ANCHIETA,ANCHIETA,,polo de baixa e media complexidade de serviços de saúde
+-40.891269,-18.7568789994248,450,3200904,BARRA DE SAO FRANCISCO,BARRA DE SAO FRANCISCO,,polo de baixa e media complexidade de serviços de saúde
+-41.112966,-20.8486789993717,451,3201209,CACHOEIRO DE ITAPEMIRIM,CACHOEIRO DE ITAPEMIRIM,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.377639,-20.3338429993845,452,3201308,CARIACICA,CARIACICA,,subpolo de baixa e media complexidade de serviços de saúde
+-40.63446,-19.5379229994046,453,3201506,COLATINA,COLATINA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-40.658883,-20.3615819993838,454,3201902,DOMINGOS MARTINS,DOMINGOS MARTINS,,subpolo de baixa e media complexidade de serviços de saúde
+-41.677496,-20.7727029993735,455,3202306,GUACUI,GUACUI,,polo de baixa e media complexidade de serviços de saúde
+-40.481403,-20.6404099993769,456,3202405,GUARAPARI,GUARAPARI,,polo de baixa e media complexidade de serviços de saúde
+-41.533772,-20.3479799993841,457,3203007,IUNA,IUNA,,polo de baixa e media complexidade de serviços de saúde
+-40.068265,-19.3979839994083,458,3203205,LINHARES,LINHARES,,polo de baixa e media complexidade de serviços de saúde
+-40.596142,-19.9355629993946,459,3204609,SANTA TERESA,SANTA TERESA,,polo de baixa e media complexidade de serviços de saúde
+-39.855389,-18.7145039994259,460,3204906,SAO MATEUS,SAO MATEUS,,polo de baixa e media complexidade de serviços de saúde
+-40.304952,-20.1243669993897,461,3205002,SERRA,SERRA,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-40.292029,-20.3297139993847,462,3205200,VILA VELHA,VILA VELHA,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-40.339251,-20.3211579993848,463,3205309,VITORIA,VITORIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.319627,-23.0091159993205,464,3300100,ANGRA DOS REIS,ANGRA DOS REIS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.341096,-22.8774379993234,465,3300209,ARARUAMA,ARARUAMA,,subpolo de baixa e media complexidade de serviços de saúde
+-44.172431,-22.5453009993312,466,3300407,BARRA MANSA,BARRA MANSA,,subpolo de baixa e media complexidade de serviços de saúde
+-41.67768,-21.1344969993648,467,3300605,BOM JESUS DO ITABAPOANA,BOM JESUS DO ITABAPOANA,,polo de baixa e media complexidade de serviços de saúde
+-42.020075,-22.8807649993233,468,3300704,CABO FRIO,CABO FRIO,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-43.205647,-22.0545289993427,469,3300951,COMENDADOR LEVY GASPARIAN,COMENDADOR LEVY GASPARIAN,,subpolo de baixa e media complexidade de serviços de saúde
+-41.335332,-21.7640059993495,470,3301009,CAMPOS DOS GOYTACAZES,CAMPOS DOS GOYTACAZES,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.364837,-21.9812199993444,471,3301108,CANTAGALO,CANTAGALO,,subpolo de baixa e media complexidade de serviços de saúde
+-42.363031,-22.0277769993433,472,3301504,CORDEIRO,CORDEIRO,,polo de baixa e media complexidade de serviços de saúde
+-43.310522,-22.7841479993256,473,3301702,DUQUE DE CAXIAS,DUQUE DE CAXIAS,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-43.776525,-22.8706829993235,474,3302007,ITAGUAI,ITAGUAI,,subpolo de baixa e media complexidade de serviços de saúde
+-41.886203,-21.210590999363,475,3302205,ITAPERUNA,ITAPERUNA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-41.775064,-22.3687049993353,476,3302403,MACAE,MACAE,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.198411,-21.411162999358,477,3303005,MIRACEMA,MIRACEMA,,polo de baixa e media complexidade de serviços de saúde
+-43.076598,-22.8972869993231,478,3303302,NITEROI,NITEROI,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-42.532771,-22.2864609993372,479,3303401,NOVA FRIBURGO,NOVA FRIBURGO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-43.450345,-22.7598349993262,480,3303500,NOVA IGUACU,NOVA IGUACU,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-43.709385,-22.6097269993297,481,3303609,PARACAMBI,PARACAMBI,,subpolo de baixa e media complexidade de serviços de saúde
+-43.177337,-22.510598999332,482,3303906,PETROPOLIS,PETROPOLIS,Polo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-44.443613,-22.4711839993329,483,3304201,RESENDE,RESENDE,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-42.625998,-22.7112719993273,484,3304300,RIO BONITO,RIO BONITO,,polo de baixa e media complexidade de serviços de saúde
+-43.173805,-22.9027999993229,485,3304557,RIO DE JANEIRO,RIO DE JANEIRO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-42.177912,-21.535976999355,486,3304706,SANTO ANTONIO DE PADUA,SANTO ANTONIO DE PADUA,,polo de baixa e media complexidade de serviços de saúde
+-43.032335,-22.8295469993246,487,3304904,SAO GONCALO,SAO GONCALO,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-42.721172,-22.7339369993268,488,3305752,TANGUA,TANGUA,,subpolo de baixa e media complexidade de serviços de saúde
+-42.964293,-22.4089109993344,489,3305802,TERESOPOLIS,TERESOPOLIS,,polo de baixa e media complexidade de serviços de saúde
+-43.211609,-22.1174479993412,490,3306008,TRES RIOS,TRES RIOS,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-43.704844,-22.2447189993382,491,3306107,VALENCA,VALENCA,,polo de baixa e media complexidade de serviços de saúde
+-43.663874,-22.4090079993343,492,3306206,VASSOURAS,VASSOURAS,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-44.093721,-22.510575999332,493,3306305,VOLTA REDONDA,VOLTA REDONDA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.07293,-21.6857559993514,494,3500105,ADAMANTINA,ADAMANTINA,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.63202,-22.4716159993328,495,3500501,AGUAS DE LINDOIA,AGUAS DE LINDOIA,,subpolo de baixa e media complexidade de serviços de saúde
+-47.332116,-22.7444859993266,496,3501608,AMERICANA,AMERICANA,,subpolo de baixa e media complexidade de serviços de saúde
+-48.10301,-21.7289449993505,497,3501707,AMERICO BRASILIENSE,AMERICO BRASILIENSE,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-46.774497,-22.7098979993273,498,3501905,AMPARO,AMPARO,,polo de baixa e media complexidade de serviços de saúde
+-51.37992,-20.8962929993706,499,3502101,ANDRADINA,ANDRADINA,,polo de baixa e media complexidade de serviços de saúde
+-48.417483,-23.4890499993096,500,3502200,ANGATUBA,ANGATUBA,,polo de baixa e media complexidade de serviços de saúde
+-48.846333,-24.511982999287,501,3502705,APIAI,APIAI,,polo de baixa e media complexidade de serviços de saúde
+-50.438897,-21.206344999363,502,3502804,ARACATUBA,ARACATUBA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.175266,-21.7929839993488,503,3503208,ARARAQUARA,ARARAQUARA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.386221,-22.3583369993355,504,3503307,ARARAS,ARARAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.411136,-22.6611069993285,505,3504008,ASSIS,ASSIS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.555175,-23.117743999318,506,3504107,ATIBAIA,ATIBAIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.55395,-20.6877329993757,507,3504206,AURIFLAMA,AURIFLAMA,,polo de baixa e media complexidade de serviços de saúde
+-48.925483,-23.0989169993185,508,3504503,AVARE,AVARE,,polo de baixa e media complexidade de serviços de saúde
+-48.739124,-22.0764459993421,509,3505203,BARIRI,BARIRI,,polo de baixa e media complexidade de serviços de saúde
+-48.567472,-20.558508999379,510,3505500,BARRETOS,BARRETOS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.877414,-23.5107669993091,511,3505708,BARUERI,BARUERI,,subpolo de baixa e media complexidade de serviços de saúde
+-49.07017,-22.3310279993362,512,3506003,BAURU,BAURU,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.478962,-20.9508419993693,513,3506102,BEBEDOURO,BEBEDOURO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.474929,-23.0125829993204,514,3506300,BERNARDINO DE CAMPOS,BERNARDINO DE CAMPOS,,polo de baixa e media complexidade de serviços de saúde
+-50.474736,-21.4053689993582,515,3506409,BILAC,BILAC,,polo de baixa e media complexidade de serviços de saúde
+-50.34123,-21.289277999361,516,3506508,BIRIGUI,BIRIGUI,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.441289,-22.8883819993231,517,3507506,BOTUCATU,BOTUCATU,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.534344,-22.9660359993215,518,3507605,BRAGANCA PAULISTA,BRAGANCA PAULISTA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.148956,-21.0661669993663,519,3508108,BURITAMA,BURITAMA,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.743269,-23.3629249993125,520,3509007,CAIEIRAS,CAIEIRAS,,subpolo de baixa e media complexidade de serviços de saúde
+-47.304151,-21.2775549993613,521,3509403,CAJURU,CAJURU,,subpolo de baixa e media complexidade de serviços de saúde
+-47.057305,-22.9010519993229,522,3509502,CAMPINAS,CAMPINAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.349283,-24.008382999298,523,3510203,CAPAO BONITO,CAPAO BONITO,,subpolo de baixa e media complexidade de serviços de saúde
+-47.50432,-22.9988019993206,524,3510401,CAPIVARI,CAPIVARI,,polo de baixa e media complexidade de serviços de saúde
+-45.411017,-23.6222499993066,525,3510500,CARAGUATATUBA,CARAGUATATUBA,,subpolo de baixa e media complexidade de serviços de saúde
+-47.079758,-21.7779869993491,526,3510807,CASA BRANCA,CASA BRANCA,,polo de baixa e media complexidade de serviços de saúde
+-48.972806,-21.1382219993646,527,3511102,CATANDUVA,CATANDUVA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.744314,-23.161255999317,528,3511508,CERQUILHO,CERQUILHO,,polo de baixa e media complexidade de serviços de saúde
+-48.009195,-23.0135339993204,529,3512308,CONCHAS,CONCHAS,,polo de baixa e media complexidade de serviços de saúde
+-44.95855,-22.5759669993305,530,3513405,CRUZEIRO,CRUZEIRO,,polo de baixa e media complexidade de serviços de saúde
+-46.73687,-21.6616219993521,531,3513900,DIVINOLANDIA,DIVINOLANDIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.533989,-21.4855879993562,532,3514403,DRACENA,DRACENA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.7591,-22.1912169993395,533,3515186,ESPIRITO SANTO DO PINHAL,ESPIRITO SANTO DO PINHAL,,polo de baixa e media complexidade de serviços de saúde
+-50.248755,-20.2824499993858,534,3515509,FERNANDOPOLIS,FERNANDOPOLIS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.401117,-20.5382549993794,535,3516200,FRANCA,FRANCA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.725969,-23.3319469993132,536,3516408,FRANCO DA ROCHA,FRANCO DA ROCHA,,subpolo de baixa e media complexidade de serviços de saúde
+-49.653294,-22.211787999339,537,3516705,GARCA,GARCA,,polo de baixa e media complexidade de serviços de saúde
+-45.1916,-22.8174249993249,538,3518404,GUARATINGUETA,GUARATINGUETA,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.531211,-23.47024699931,539,3518800,GUARULHOS,GUARULHOS,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-48.824483,-21.7580979993497,540,3519600,IBITINGA,IBITINGA,,polo de baixa e media complexidade de serviços de saúde
+-51.344281,-20.4271269993822,541,3520442,ILHA SOLTEIRA,ILHA SOLTEIRA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.229557,-23.0928349993186,542,3520509,INDAIATUBA,INDAIATUBA,,polo de baixa e media complexidade de serviços de saúde
+-46.849644,-23.7175559993045,543,3522208,ITAPECERICA DA SERRA,ITAPECERICA DA SERRA,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-48.047667,-23.5871829993073,544,3522307,ITAPETININGA,ITAPETININGA,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.876367,-23.9869499992985,545,3522406,ITAPEVA,ITAPEVA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.93455,-23.5485889993083,546,3522505,ITAPEVI,ITAPEVI,,subpolo de baixa e media complexidade de serviços de saúde
+-49.484396,-23.7034999993048,547,3522802,ITAPORANGA,ITAPORANGA,,polo de baixa e media complexidade de serviços de saúde
+-46.351603,-23.4768979993098,548,3523107,ITAQUAQUECETUBA,ITAQUAQUECETUBA,,subpolo de baixa e media complexidade de serviços de saúde
+-49.33935,-24.1155329992957,549,3523206,ITARARE,ITARARE,,polo de baixa e media complexidade de serviços de saúde
+-47.782298,-20.3391299993844,550,3524105,ITUVERAVA,ITUVERAVA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.310749,-21.2545919993618,551,3524303,JABOTICABAL,JABOTICABAL,,polo de baixa e media complexidade de serviços de saúde
+-45.969593,-23.3048799993138,552,3524402,JACAREI,JACAREI,,subpolo de baixa e media complexidade de serviços de saúde
+-46.984845,-22.7050869993275,553,3524709,JAGUARIUNA,JAGUARIUNA,,polo de baixa e media complexidade de serviços de saúde
+-50.547581,-20.2681439993861,554,3524808,JALES,JALES,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.558907,-22.297127999337,555,3525300,JAU,JAU,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.688581,-21.0531489993667,556,3525706,JOSE BONIFACIO,JOSE BONIFACIO,,polo de baixa e media complexidade de serviços de saúde
+-46.884272,-23.1891169993164,557,3525904,JUNDIAI,JUNDIAI,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.439737,-21.5121639993556,558,3526001,JUNQUEIROPOLIS,JUNQUEIROPOLIS,,polo de baixa e media complexidade de serviços de saúde
+-47.388708,-22.1854359993395,559,3526704,LEME,LEME,,subpolo de baixa e media complexidade de serviços de saúde
+-48.80247,-22.6034729993298,560,3526803,LENCOIS PAULISTA,LENCOIS PAULISTA,,polo de baixa e media complexidade de serviços de saúde
+-47.409472,-22.5735989993305,561,3526902,LIMEIRA,LIMEIRA,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.741757,-21.6720939993518,562,3527108,LINS,LINS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-45.115783,-22.7383829993267,563,3527207,LORENA,LORENA,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.947946,-22.2199489993388,564,3529005,MARILIA,MARILIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.171424,-22.1491599993403,565,3529203,MARTINOPOLIS,MARTINOPOLIS,,subpolo de baixa e media complexidade de serviços de saúde
+-48.360935,-21.6003859993535,566,3529302,MATAO,MATAO,,subpolo de baixa e media complexidade de serviços de saúde
+-46.462317,-23.6698559993055,567,3529401,MAUA,MAUA,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-51.102952,-21.1328519993648,568,3530102,MIRANDOPOLIS,MIRANDOPOLIS,,polo de baixa e media complexidade de serviços de saúde
+-47.007171,-21.4689909993567,569,3530508,MOCOCA,MOCOCA,,polo de baixa e media complexidade de serviços de saúde
+-46.185433,-23.5191829993089,570,3530607,MOGI DAS CRUZES,MOGI DAS CRUZES,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-46.944409,-22.3687449993352,571,3530706,MOGI GUACU,MOGI GUACU,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.957399,-22.4317919993338,572,3530805,MOGI MIRIM,MOGI MIRIM,,subpolo de baixa e media complexidade de serviços de saúde
+-49.714477,-20.7728059993736,573,3531407,MONTE APRAZIVEL,MONTE APRAZIVEL,,polo de baixa e media complexidade de serviços de saúde
+-50.040654,-20.6943019993756,574,3532603,NHANDEARA,NHANDEARA,,polo de baixa e media complexidade de serviços de saúde
+-48.91444,-20.7382229993744,575,3533908,OLIMPIA,OLIMPIA,,polo de baixa e media complexidade de serviços de saúde
+-47.887091,-20.7206419993749,576,3534302,ORLANDIA,ORLANDIA,,polo de baixa e media complexidade de serviços de saúde
+-46.782078,-23.5387749993084,577,3534401,OSASCO,OSASCO,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-50.878723,-21.7974799993487,578,3534609,OSVALDO CRUZ,OSVALDO CRUZ,,polo de baixa e media complexidade de serviços de saúde
+-49.865927,-22.9811109993211,579,3534708,OURINHOS,OURINHOS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.588061,-22.4122539993343,580,3535507,PARAGUACU PAULISTA,PARAGUACU PAULISTA,,subpolo de baixa e media complexidade de serviços de saúde
+-47.881483,-24.7135999992827,581,3536208,PARIQUERA-ACU,PARIQUERA-ACU,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.076597,-21.4193649993578,582,3537305,PENAPOLIS,PENAPOLIS,,polo de baixa e media complexidade de serviços de saúde
+-46.997302,-24.3195089992912,583,3537602,PERUIBE,PERUIBE,,subpolo de baixa e media complexidade de serviços de saúde
+-45.462817,-22.9376999993221,584,3538006,PINDAMONHANGABA,PINDAMONHANGABA,,subpolo de baixa e media complexidade de serviços de saúde
+-47.664606,-22.7288129993269,585,3538709,PIRACICABA,PIRACICABA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.383974,-23.1929909993163,586,3538808,PIRAJU,PIRAJU,,polo de baixa e media complexidade de serviços de saúde
+-49.458509,-21.9945359993441,587,3538907,PIRAJUI,PIRAJUI,,subpolo de baixa e media complexidade de serviços de saúde
+-46.494367,-24.0305169992976,588,3541000,PRAIA GRANDE,PRAIA GRANDE,,subpolo de baixa e media complexidade de serviços de saúde
+-51.388373,-22.1219739993411,589,3541406,PRESIDENTE PRUDENTE,PRESIDENTE PRUDENTE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.84458,-21.8753229993469,590,3541505,PRESIDENTE VENCESLAU,PRESIDENTE VENCESLAU,,subpolo de baixa e media complexidade de serviços de saúde
+-49.860216,-21.5365069993551,591,3541604,PROMISSAO,PROMISSAO,,polo de baixa e media complexidade de serviços de saúde
+-50.894134,-22.2283749993386,592,3542206,RANCHARIA,RANCHARIA,,polo de baixa e media complexidade de serviços de saúde
+-47.845267,-24.4955829992874,593,3542602,REGISTRO,REGISTRO,,polo de baixa e media complexidade de serviços de saúde
+-47.806516,-21.1767149993637,594,3543402,RIBEIRAO PRETO,RIBEIRAO PRETO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.559629,-22.4113069993342,595,3543907,RIO CLARO,RIO CLARO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.627159,-22.9055689993229,596,3546405,SANTA CRUZ DO RIO PARDO,SANTA CRUZ DO RIO PARDO,,polo de baixa e media complexidade de serviços de saúde
+-50.927757,-20.2109219993876,597,3546603,SANTA FE DO SUL,SANTA FE DO SUL,,polo de baixa e media complexidade de serviços de saúde
+-46.914078,-23.4458689993105,598,3547304,SANTANA DE PARNAIBA,SANTANA DE PARNAIBA,,subpolo de baixa e media complexidade de serviços de saúde
+-46.525044,-23.6665169993056,599,3547809,SANTO ANDRE,SANTO ANDRE,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-46.324379,-23.9370509992996,600,3548500,SANTOS,SANTOS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-45.731667,-22.6907999993278,601,3548609,SAO BENTO DO SAPUCAI,SAO BENTO DO SAPUCAI,,polo de baixa e media complexidade de serviços de saúde
+-46.549912,-23.7079719993047,602,3548708,SAO BERNARDO DO CAMPO,SAO BERNARDO DO CAMPO,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-47.889517,-22.0130539993437,603,3548906,SAO CARLOS,SAO CARLOS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.798535,-21.9695589993447,604,3549102,SAO JOAO DA BOA VISTA,SAO JOAO DA BOA VISTA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.860618,-20.5814389993784,605,3549409,SAO JOAQUIM DA BARRA,SAO JOAQUIM DA BARRA,,polo de baixa e media complexidade de serviços de saúde
+-46.888266,-21.5961029993535,606,3549706,SAO JOSE DO RIO PARDO,SAO JOSE DO RIO PARDO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.379436,-20.8107219993727,607,3549805,SAO JOSE DO RIO PRETO,SAO JOSE DO RIO PRETO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-45.878633,-23.1848669993165,608,3549904,SAO JOSE DOS CAMPOS,SAO JOSE DOS CAMPOS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.571168,-22.7341419993268,609,3550100,SAO MANUEL,SAO MANUEL,,polo de baixa e media complexidade de serviços de saúde
+-46.634364,-23.5513029993082,610,3550308,SAO PAULO,SAO PAULO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.135423,-23.5303589993086,611,3550605,SAO ROQUE,SAO ROQUE,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-45.401483,-23.8049169993025,612,3550704,SAO SEBASTIAO,SAO SEBASTIAO,,subpolo de baixa e media complexidade de serviços de saúde
+-47.992763,-21.1369789993647,613,3551702,SERTAOZINHO,SERTAOZINHO,,polo de baixa e media complexidade de serviços de saúde
+-47.458421,-23.5001969993094,614,3552205,SOROCABA,SOROCABA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-46.784128,-23.6286309993065,615,3552809,TABOAO DA SERRA,TABOAO DA SERRA,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-48.500255,-21.4072459993581,616,3553708,TAQUARITINGA,TAQUARITINGA,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-49.2444,-23.5342169993086,617,3553807,TAQUARITUBA,TAQUARITUBA,,polo de baixa e media complexidade de serviços de saúde
+-47.845921,-23.3543739993126,618,3554003,TATUI,TATUI,,polo de baixa e media complexidade de serviços de saúde
+-45.556609,-23.0265559993201,619,3554102,TAUBATE,TAUBATE,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-47.715595,-23.0987599993184,620,3554508,TIETE,TIETE,,subpolo de baixa e media complexidade de serviços de saúde
+-50.512758,-21.9345729993455,621,3555000,TUPA,TUPA,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.975345,-20.4202949993824,622,3557105,VOTUPORANGA,VOTUPORANGA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.2998,-25.31319999927,623,4100400,ALMIRANTE TAMANDARE,ALMIRANTE TAMANDARE,,subpolo de baixa e media complexidade de serviços de saúde
+-51.4594,-23.5517999993082,624,4101408,APUCARANA,APUCARANA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.4379,-23.4077999993114,625,4101507,ARAPONGAS,ARAPONGAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.4005,-25.5904999992643,626,4101804,ARAUCARIA,ARAUCARIA,,subpolo de baixa e media complexidade de serviços de saúde
+-53.5101,-24.4046999992893,627,4102000,ASSIS CHATEAUBRIAND,ASSIS CHATEAUBRIAND,,polo de baixa e media complexidade de serviços de saúde
+-51.6641,-23.2340999993154,628,4102109,ASTORGA,ASTORGA,,polo de baixa e media complexidade de serviços de saúde
+-50.3719,-23.1062999993182,629,4102406,BANDEIRANTES,BANDEIRANTES,,polo de baixa e media complexidade de serviços de saúde
+-49.0542,-25.3059999992702,630,4104006,CAMPINA GRANDE DO SUL,CAMPINA GRANDE DO SUL,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-49.5158,-25.4541999992672,631,4104204,CAMPO LARGO,CAMPO LARGO,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-52.3791,-24.0425999992973,632,4104303,CAMPO MOURAO,CAMPO MOURAO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-53.4826,-24.9530999992776,633,4104808,CASCAVEL,CASCAVEL,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.2631,-24.8245999992803,634,4105201,CERRO AZUL,CERRO AZUL,,polo de baixa e media complexidade de serviços de saúde
+-52.5224,-25.8578999992588,635,4105409,CHOPINZINHO,CHOPINZINHO,,polo de baixa e media complexidade de serviços de saúde
+-52.6123,-23.6543999993059,636,4105508,CIANORTE,CIANORTE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.9717,-22.8362999993244,637,4105904,COLORADO,COLORADO,,polo de baixa e media complexidade de serviços de saúde
+-50.6496,-23.1812999993166,638,4106407,CORNELIO PROCOPIO,CORNELIO PROCOPIO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.2686,-25.4171999992679,639,4106902,CURITIBA,CURITIBA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-54.5879,-25.5464999992651,640,4108304,FOZ DO IGUACU,FOZ DO IGUACU,Polo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-53.0554,-26.0801999992543,641,4108403,FRANCISCO BELTRAO,FRANCISCO BELTRAO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-53.0205,-24.1881999992941,642,4108601,GOIOERE,GOIOERE,,polo de baixa e media complexidade de serviços de saúde
+-54.259,-24.0851999992964,643,4108809,GUAIRA,GUAIRA,,polo de baixa e media complexidade de serviços de saúde
+-51.4699,-25.3862999992686,644,4109401,GUARAPUAVA,GUARAPUAVA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.1924,-23.8400999993018,645,4109708,IBAITI,IBAITI,,polo de baixa e media complexidade de serviços de saúde
+-50.6496,-25.4642999992669,646,4110706,IRATI,IRATI,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.6741,-24.2443999992928,647,4111506,IVAIPORA,IVAIPORA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.9736,-23.1597999993171,648,4111803,JACAREZINHO,JACAREZINHO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.7128,-24.2553999992926,649,4112009,JAGUARIAIVA,JAGUARIAIVA,,polo de baixa e media complexidade de serviços de saúde
+-52.4103,-25.4034999992681,650,4113304,LARANJEIRAS DO SUL,LARANJEIRAS DO SUL,,polo de baixa e media complexidade de serviços de saúde
+-53.137,-22.9210999993225,651,4113502,LOANDA,LOANDA,,polo de baixa e media complexidade de serviços de saúde
+-51.1506,-23.335499999313,652,4113700,LONDRINA,LONDRINA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-54.0593,-24.558599999286,653,4114609,MARECHAL CANDIDO RONDON,MARECHAL CANDIDO RONDON,,polo de baixa e media complexidade de serviços de saúde
+-51.9392,-23.424199999311,654,4115200,MARINGA,MARINGA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-53.9783,-25.2398999992716,655,4115606,MATELANDIA,MATELANDIA,,polo de baixa e media complexidade de serviços de saúde
+-54.0954,-25.2919999992705,656,4115804,MEDIANEIRA,MEDIANEIRA,,polo de baixa e media complexidade de serviços de saúde
+-51.9875,-26.4890999992462,657,4117602,PALMAS,PALMAS,,polo de baixa e media complexidade de serviços de saúde
+-48.534,-25.5256999992656,658,4118204,PARANAGUA,PARANAGUA,,polo de baixa e media complexidade de serviços de saúde
+-52.4643,-23.0818999993188,659,4118402,PARANAVAI,PARANAVAI,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.673,-26.2284999992513,660,4118501,PATO BRANCO,PATO BRANCO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.7592,-24.7573999992818,661,4119608,PITANGA,PITANGA,,polo de baixa e media complexidade de serviços de saúde
+-50.1707,-25.0979999992745,662,4119905,PONTA GROSSA,PONTA GROSSA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-53.7399,-26.0208999992555,663,4120358,PRANCHITA,PRANCHITA,,subpolo de baixa e media complexidade de serviços de saúde
+-53.5325,-25.7748999992605,664,4121406,REALEZA,REALEZA,,polo de baixa e media complexidade de serviços de saúde
+-49.8041,-26.0823999992543,665,4122305,RIO NEGRO,RIO NEGRO,,subpolo de baixa e media complexidade de serviços de saúde
+-53.1984,-23.0034999993206,666,4123709,SANTA ISABEL DO IVAI,SANTA ISABEL DO IVAI,,polo de baixa e media complexidade de serviços de saúde
+-50.0741,-23.292199999314,667,4124103,SANTO ANTONIO DA PLATINA,SANTO ANTONIO DA PLATINA,,polo de baixa e media complexidade de serviços de saúde
+-53.7228,-26.0723999992545,668,4124400,SANTO ANTONIO DO SUDOESTE,SANTO ANTONIO DO SUDOESTE,,polo de baixa e media complexidade de serviços de saúde
+-53.8808,-23.7648999993034,669,4125357,SAO JORGE DO PATROCINIO,SAO JORGE DO PATROCINIO,,polo de baixa e media complexidade de serviços de saúde
+-49.2074,-25.5338999992655,670,4125506,SAO JOSE DOS PINHAIS,SAO JOSE DOS PINHAIS,,subpolo de baixa e media complexidade de serviços de saúde
+-50.3855,-25.8731999992585,671,4125605,SAO MATEUS DO SUL,SAO MATEUS DO SUL,,polo de baixa e media complexidade de serviços de saúde
+-50.7586,-23.4611999993102,672,4126009,SAO SEBASTIAO DA AMOREIRA,SAO SEBASTIAO DA AMOREIRA,,polo de baixa e media complexidade de serviços de saúde
+-50.6217,-24.3293999992911,673,4127106,TELEMACO BORBA,TELEMACO BORBA,,polo de baixa e media complexidade de serviços de saúde
+-53.7403,-24.7226999992825,674,4127700,TOLEDO,TOLEDO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.9902,-24.5398999992864,675,4128005,UBIRATA,UBIRATA,,polo de baixa e media complexidade de serviços de saúde
+-53.3112,-23.7630999993034,676,4128104,UMUARAMA,UMUARAMA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.0882,-26.2306999992513,677,4128203,UNIAO DA VITORIA,UNIAO DA VITORIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.8036,-23.876299999301,678,4128500,WENCESLAU BRAZ,WENCESLAU BRAZ,,polo de baixa e media complexidade de serviços de saúde
+-48.982725,-27.584132999225,679,4200903,ANGELINA,ANGELINA,,subpolo de baixa e media complexidade de serviços de saúde
+-49.485435,-28.9351769992005,680,4201406,ARARANGUA,ARARANGUA,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.634264,-26.9908109992363,681,4202008,BALNEARIO CAMBORIU,BALNEARIO CAMBORIU,,subpolo de baixa e media complexidade de serviços de saúde
+-48.654767,-27.4955999992267,682,4202305,BIGUACU,BIGUACU,,subpolo de baixa e media complexidade de serviços de saúde
+-49.069267,-26.9143609992378,683,4202404,BLUMENAU,BLUMENAU,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.165706,-28.2763499992122,684,4202800,BRACO DO NORTE,BRACO DO NORTE,,polo de baixa e media complexidade de serviços de saúde
+-48.900339,-27.0987439992343,685,4202909,BRUSQUE,BRUSQUE,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-51.012886,-26.7747579992405,686,4203006,CACADOR,CACADOR,,polo de baixa e media complexidade de serviços de saúde
+-53.087244,-26.3993889992479,687,4203501,CAMPO ERE,CAMPO ERE,,polo de baixa e media complexidade de serviços de saúde
+-51.226581,-27.4015139992284,688,4203600,CAMPOS NOVOS,CAMPOS NOVOS,,polo de baixa e media complexidade de serviços de saúde
+-50.3909,-26.1775219992524,689,4203808,CANOINHAS,CANOINHAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.612767,-27.3427139992296,690,4203907,CAPINZAL,CAPINZAL,,subpolo de baixa e media complexidade de serviços de saúde
+-52.613886,-27.1042639992341,691,4204202,CHAPECO,CHAPECO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.023,-27.2314279992317,692,4204301,CONCORDIA,CONCORDIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.3693,-28.677816999205,693,4204608,CRICIUMA,CRICIUMA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.581511,-27.2833729992307,694,4204806,CURITIBANOS,CURITIBANOS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-53.640078,-26.2532309992509,695,4205001,DIONISIO CERQUEIRA,DIONISIO CERQUEIRA,,polo de baixa e media complexidade de serviços de saúde
+-48.549694,-27.5975249992247,696,4205407,FLORIANOPOLIS,FLORIANOPOLIS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.496919,-27.1721169992328,697,4206702,HERVAL D'OESTE,HERVAL D'OESTE,,subpolo de baixa e media complexidade de serviços de saúde
+-49.516008,-27.0578559992351,698,4206900,IBIRAMA,IBIRAMA,,polo de baixa e media complexidade de serviços de saúde
+-49.299528,-28.7141419992044,699,4207007,ICARA,ICARA,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-48.664408,-28.2414079992129,700,4207304,IMBITUBA,IMBITUBA,,polo de baixa e media complexidade de serviços de saúde
+-48.655469,-26.904777999238,701,4208203,ITAJAI,ITAJAI,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.602222,-27.4155189992282,702,4208500,ITUPORANGA,ITUPORANGA,,polo de baixa e media complexidade de serviços de saúde
+-49.082519,-26.4835939992462,703,4208906,JARAGUA DO SUL,JARAGUA DO SUL,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.504683,-27.1739969992328,704,4209003,JOACABA,JOACABA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-48.841675,-26.3016219992499,705,4209102,JOINVILLE,JOINVILLE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.325828,-27.8168599992207,706,4209300,LAGES,LAGES,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.803206,-26.1109939992537,707,4210100,MAFRA,MAFRA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-53.174667,-26.7606389992408,708,4210506,MARAVILHA,MARAVILHA,,polo de baixa e media complexidade de serviços de saúde
+-53.052944,-26.7753059992405,709,4210902,MODELO,MODELO,,polo de baixa e media complexidade de serviços de saúde
+-49.497481,-28.6371779992058,710,4211603,NOVA VENEZA,NOVA VENEZA,,subpolo de baixa e media complexidade de serviços de saúde
+-49.29005,-28.3592969992106,711,4211702,ORLEANS,ORLEANS,,polo de baixa e media complexidade de serviços de saúde
+-48.667611,-27.6457309992239,712,4211900,PALHOCA,PALHOCA,,subpolo de baixa e media complexidade de serviços de saúde
+-53.2775,-26.3513889992489,713,4212007,PALMA SOLA,PALMA SOLA,,polo de baixa e media complexidade de serviços de saúde
+-53.159722,-27.0716109992347,714,4212106,PALMITOS,PALMITOS,,polo de baixa e media complexidade de serviços de saúde
+-52.986565,-26.8510659992391,715,4212908,PINHALZINHO,PINHALZINHO,,polo de baixa e media complexidade de serviços de saúde
+-51.080511,-26.2332419992513,716,4213609,PORTO UNIAO,PORTO UNIAO,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-49.950697,-29.1974559991959,717,4213807,PRAIA GRANDE,PRAIA GRANDE,,subpolo de baixa e media complexidade de serviços de saúde
+-49.623242,-27.0468309992352,718,4214003,PRESIDENTE GETULIO,PRESIDENTE GETULIO,,polo de baixa e media complexidade de serviços de saúde
+-52.718391,-26.7269109992413,719,4214201,QUILOMBO,QUILOMBO,,polo de baixa e media complexidade de serviços de saúde
+-49.643178,-27.215257999232,720,4214805,RIO DO SUL,RIO DO SUL,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.104275,-28.1321829992149,721,4214904,RIO FORTUNA,RIO FORTUNA,,polo de baixa e media complexidade de serviços de saúde
+-48.778297,-27.688891999223,722,4215703,SANTO AMARO DA IMPERATRIZ,SANTO AMARO DA IMPERATRIZ,,subpolo de baixa e media complexidade de serviços de saúde
+-53.005028,-27.0813329992346,723,4216008,SAO CARLOS,SAO CARLOS,,polo de baixa e media complexidade de serviços de saúde
+-48.849028,-27.2761309992309,724,4216305,SAO JOAO BATISTA,SAO JOAO BATISTA,,polo de baixa e media complexidade de serviços de saúde
+-49.932386,-28.2944749992119,725,4216503,SAO JOAQUIM,SAO JOAQUIM,,polo de baixa e media complexidade de serviços de saúde
+-48.627794,-27.6159139992243,726,4216602,SAO JOSE,SAO JOSE,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-52.848417,-26.3557419992488,727,4216909,SAO LOURENCO DO OESTE,SAO LOURENCO DO OESTE,,polo de baixa e media complexidade de serviços de saúde
+-53.518431,-26.7266389992415,728,4217204,SAO MIGUEL DO OESTE,SAO MIGUEL DO OESTE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.633189,-29.1145329991973,729,4217709,SOMBRIO,SOMBRIO,,polo de baixa e media complexidade de serviços de saúde
+-48.631919,-27.2427829992314,730,4218004,TIJUCAS,TIJUCAS,,polo de baixa e media complexidade de serviços de saúde
+-49.277919,-26.8218999992396,731,4218202,TIMBO,TIMBO,,polo de baixa e media complexidade de serviços de saúde
+-49.006353,-28.4837579992084,732,4218707,TUBARAO,TUBARAO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.678117,-28.9275639992007,733,4218806,TURVO,TURVO,,polo de baixa e media complexidade de serviços de saúde
+-51.154417,-27.005774999236,734,4219309,VIDEIRA,VIDEIRA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.404874,-26.8766299992385,735,4219507,XANXERE,XANXERE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-55.79587,-29.782042999186,736,4300406,ALEGRETE,ALEGRETE,,polo de baixa e media complexidade de serviços de saúde
+-52.303832,-27.3944439992286,737,4300901,ARATIBA,ARATIBA,,polo de baixa e media complexidade de serviços de saúde
+-51.947449,-29.3988909991925,738,4301008,ARROIO DO MEIO,ARROIO DO MEIO,,subpolo de baixa e media complexidade de serviços de saúde
+-53.086396,-29.3358599991935,739,4301206,ARROIO DO TIGRE,ARROIO DO TIGRE,,polo de baixa e media complexidade de serviços de saúde
+-52.179512,-28.8730489992015,740,4301404,ARVOREZINHA,ARVOREZINHA,,polo de baixa e media complexidade de serviços de saúde
+-54.107083,-31.3305019991614,741,4301602,BAGE,BAGE,,polo de baixa e media complexidade de serviços de saúde
+-51.51556,-29.1674019991965,742,4302105,BENTO GONCALVES,BENTO GONCALVES,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.352369,-29.4911029991909,743,4302352,BOM PRINCIPIO,BOM PRINCIPIO,,polo de baixa e media complexidade de serviços de saúde
+-52.893413,-30.0458199991817,744,4303004,CACHOEIRA DO SUL,CACHOEIRA DO SUL,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.814601,-30.8507039991688,745,4303509,CAMAQUA,CAMAQUA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.18103,-29.9186969991837,746,4304606,CANOAS,CANOAS,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-50.020022,-29.7614669991863,747,4304630,CAPAO DA CANOA,CAPAO DA CANOA,,polo de baixa e media complexidade de serviços de saúde
+-52.791897,-28.286510999212,748,4304705,CARAZINHO,CARAZINHO,,polo de baixa e media complexidade de serviços de saúde
+-51.983233,-28.5598739992071,749,4304903,CASCA,CASCA,,polo de baixa e media complexidade de serviços de saúde
+-51.17886,-29.1668989991965,750,4305108,CAXIAS DO SUL,CAXIAS DO SUL,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-54.739997,-28.1478409992146,751,4305207,CERRO LARGO,CERRO LARGO,,subpolo de baixa e media complexidade de serviços de saúde
+-51.593581,-29.9463609991834,752,4305355,CHARQUEADAS,CHARQUEADAS,,polo de baixa e media complexidade de serviços de saúde
+-53.605241,-28.6424469992056,753,4306106,CRUZ ALTA,CRUZ ALTA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.848819,-28.3876969992102,754,4306304,DAVID CANABARRO,DAVID CANABARRO,,polo de baixa e media complexidade de serviços de saúde
+-51.087619,-29.5841589991893,755,4306403,DOIS IRMAOS,DOIS IRMAOS,,subpolo de baixa e media complexidade de serviços de saúde
+-51.870756,-29.2364749991952,756,4306809,ENCANTADO,ENCANTADO,,polo de baixa e media complexidade de serviços de saúde
+-52.275877,-27.633405999224,757,4307005,ERECHIM,ERECHIM,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.841927,-28.731444999204,758,4307500,ESPUMOSO,ESPUMOSO,,polo de baixa e media complexidade de serviços de saúde
+-51.97026,-29.5034719991907,759,4307807,ESTRELA,ESTRELA,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-51.310102,-29.4539709991915,760,4308102,FELIZ,FELIZ,,subpolo de baixa e media complexidade de serviços de saúde
+-51.182221,-29.0311419991988,761,4308201,FLORES DA CUNHA,FLORES DA CUNHA,,polo de baixa e media complexidade de serviços de saúde
+-53.400777,-27.3588819992293,762,4308508,FREDERICO WESTPHALEN,FREDERICO WESTPHALEN,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.529548,-29.2545489991949,763,4308607,GARIBALDI,GARIBALDI,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-52.249574,-27.8759119992195,764,4308904,GETULIO VARGAS,GETULIO VARGAS,,polo de baixa e media complexidade de serviços de saúde
+-54.35084,-28.0297439992167,765,4309001,GIRUA,GIRUA,,polo de baixa e media complexidade de serviços de saúde
+-50.990793,-29.9455189991833,766,4309209,GRAVATAI,GRAVATAI,,subpolo de baixa e media complexidade de serviços de saúde
+-51.890651,-28.849133999202,767,4309407,GUAPORE,GUAPORE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-54.560556,-28.1417789992146,768,4309506,GUARANI DAS MISSOES,GUARANI DAS MISSOES,,polo de baixa e media complexidade de serviços de saúde
+-54.308792,-27.6300969992241,769,4309605,HORIZONTINA,HORIZONTINA,,polo de baixa e media complexidade de serviços de saúde
+-50.798711,-29.5722199991895,770,4310108,IGREJINHA,IGREJINHA,,subpolo de baixa e media complexidade de serviços de saúde
+-53.918067,-28.3885369992102,771,4310207,IJUI,IJUI,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.159574,-29.5941569991891,772,4310801,IVOTI,IVOTI,,subpolo de baixa e media complexidade de serviços de saúde
+-53.284389,-27.6312219992241,773,4310850,JABOTICABA,JABOTICABA,,polo de baixa e media complexidade de serviços de saúde
+-51.527036,-28.2090669992135,774,4311304,LAGOA VERMELHA,LAGOA VERMELHA,,polo de baixa e media complexidade de serviços de saúde
+-51.967828,-29.4654539991914,775,4311403,LAJEADO,LAJEADO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.196777,-28.4484539992091,776,4311809,MARAU,MARAU,,polo de baixa e media complexidade de serviços de saúde
+-52.097804,-29.3291369991937,777,4312054,MARQUES DE SOUZA,MARQUES DE SOUZA,,subpolo de baixa e media complexidade de serviços de saúde
+-51.461681,-29.6895029991875,778,4312401,MONTENEGRO,MONTENEGRO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.819279,-28.4599069992089,779,4312658,NAO-ME-TOQUE,NAO-ME-TOQUE,,polo de baixa e media complexidade de serviços de saúde
+-52.776189,-27.3546649992293,780,4312708,NONOAI,NONOAI,,polo de baixa e media complexidade de serviços de saúde
+-53.470635,-29.4730259991912,781,4313102,NOVA PALMA,NOVA PALMA,,polo de baixa e media complexidade de serviços de saúde
+-51.106954,-29.3762089991928,782,4313201,NOVA PETROPOLIS,NOVA PETROPOLIS,,subpolo de baixa e media complexidade de serviços de saúde
+-51.608996,-28.7839449992032,783,4313300,NOVA PRATA,NOVA PRATA,,polo de baixa e media complexidade de serviços de saúde
+-51.128605,-29.6863259991876,784,4313409,NOVO HAMBURGO,NOVO HAMBURGO,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-50.506052,-30.2600669991782,785,4313656,PALMARES DO SUL,PALMARES DO SUL,,polo de baixa e media complexidade de serviços de saúde
+-53.314954,-27.9006209992191,786,4313706,PALMEIRA DAS MISSOES,PALMEIRA DAS MISSOES,,polo de baixa e media complexidade de serviços de saúde
+-50.834866,-29.6317489991886,787,4314050,PAROBE,PAROBE,,subpolo de baixa e media complexidade de serviços de saúde
+-52.407095,-28.2617669992125,788,4314100,PASSO FUNDO,PASSO FUNDO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.34432,-31.7195979991556,789,4314407,PELOTAS,PELOTAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.22866,-30.0300369991819,790,4314902,PORTO ALEGRE,PORTO ALEGRE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.301717,-29.2403089991953,791,4315156,PROGRESSO,PROGRESSO,,polo de baixa e media complexidade de serviços de saúde
+-52.08677,-32.0504459991508,792,4315602,RIO GRANDE,RIO GRANDE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.379018,-29.9856259991827,793,4315701,RIO PARDO,RIO PARDO,,polo de baixa e media complexidade de serviços de saúde
+-53.168531,-27.4704029992271,794,4315909,RODEIO BONITO,RODEIO BONITO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.806534,-27.7819309992213,795,4316105,RONDA ALTA,RONDA ALTA,,polo de baixa e media complexidade de serviços de saúde
+-51.813502,-27.9440069992183,796,4316600,SANANDUVA,SANANDUVA,,polo de baixa e media complexidade de serviços de saúde
+-52.429929,-29.719767999187,797,4316808,SANTA CRUZ DO SUL,SANTA CRUZ DO SUL,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-53.808675,-29.6855819991876,798,4316907,SANTA MARIA,SANTA MARIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-54.478224,-27.8667499992198,799,4317202,SANTA ROSA,SANTA ROSA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-53.367006,-33.5198599991309,800,4317301,SANTA VITORIA DO PALMAR,SANTA VITORIA DO PALMAR,,polo de baixa e media complexidade de serviços de saúde
+-54.869076,-29.191459999196,801,4317400,SANTIAGO,SANTIAGO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-54.264143,-28.3019379992118,802,4317509,SANTO ANGELO,SANTO ANGELO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.520986,-29.8320339991853,803,4317608,SANTO ANTONIO DA PATRULHA,SANTO ANTONIO DA PATRULHA,,polo de baixa e media complexidade de serviços de saúde
+-53.77885,-27.85349099922,804,4317806,SANTO AUGUSTO,SANTO AUGUSTO,,polo de baixa e media complexidade de serviços de saúde
+-54.668748,-27.8199299992206,805,4317905,SANTO CRISTO,SANTO CRISTO,,polo de baixa e media complexidade de serviços de saúde
+-56.001029,-28.6628379992053,806,4318002,SAO BORJA,SAO BORJA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-54.320478,-30.3367599991769,807,4318309,SAO GABRIEL,SAO GABRIEL,,subpolo de baixa e media complexidade de serviços de saúde
+-51.728178,-29.9594389991831,808,4318408,SAO JERONIMO,SAO JERONIMO,,subpolo de baixa e media complexidade de serviços de saúde
+-51.594768,-27.7712549992215,809,4318606,SAO JOSE DO OURO,SAO JOSE DO OURO,,polo de baixa e media complexidade de serviços de saúde
+-51.146235,-29.7658669991863,810,4318705,SAO LEOPOLDO,SAO LEOPOLDO,,subpolo de baixa e media complexidade de serviços de saúde
+-51.976915,-31.3640239991609,811,4318804,SAO LOURENCO DO SUL,SAO LOURENCO DO SUL,,polo de baixa e media complexidade de serviços de saúde
+-54.95966,-28.4066469992099,812,4318903,SAO LUIZ GONZAGA,SAO LUIZ GONZAGA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-54.179991,-29.6175309991888,813,4319406,SAO PEDRO DO SUL,SAO PEDRO DO SUL,,polo de baixa e media complexidade de serviços de saúde
+-51.376665,-29.5920799991892,814,4319505,SAO SEBASTIAO DO CAI,SAO SEBASTIAO DO CAI,,subpolo de baixa e media complexidade de serviços de saúde
+-53.569644,-30.1674109991797,815,4319604,SAO SEPE,SAO SEPE,,polo de baixa e media complexidade de serviços de saúde
+-51.003623,-29.6385539991884,816,4319901,SAPIRANGA,SAPIRANGA,,subpolo de baixa e media complexidade de serviços de saúde
+-52.925461,-27.9435949992183,817,4320107,SARANDI,SARANDI,,polo de baixa e media complexidade de serviços de saúde
+-52.956525,-28.6274339992059,818,4320305,SELBACH,SELBACH,,polo de baixa e media complexidade de serviços de saúde
+-53.025168,-29.4147729991923,819,4320701,SOBRADINHO,SOBRADINHO,,polo de baixa e media complexidade de serviços de saúde
+-52.509866,-28.8277379992023,820,4320800,SOLEDADE,SOLEDADE,,polo de baixa e media complexidade de serviços de saúde
+-52.022133,-28.0841709992157,821,4320909,TAPEJARA,TAPEJARA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.781169,-29.6505129991882,822,4321204,TAQUARA,TAQUARA,,polo de baixa e media complexidade de serviços de saúde
+-53.75727,-27.372166999229,823,4321402,TENENTE PORTELA,TENENTE PORTELA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.812817,-29.4889139991909,824,4321451,TEUTONIA,TEUTONIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.730404,-29.3359309991936,825,4321501,TORRES,TORRES,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.130377,-29.9873019991827,826,4321600,TRAMANDAI,TRAMANDAI,,polo de baixa e media complexidade de serviços de saúde
+-54.235302,-27.7796599992214,827,4321808,TRES DE MAIO,TRES DE MAIO,,polo de baixa e media complexidade de serviços de saúde
+-53.929699,-27.4561599992274,828,4321907,TRES PASSOS,TRES PASSOS,,polo de baixa e media complexidade de serviços de saúde
+-54.433129,-27.6500599992238,829,4322103,TUCUNDUVA,TUCUNDUVA,,polo de baixa e media complexidade de serviços de saúde
+-54.478508,-27.7540889992219,830,4322301,TUPARENDI,TUPARENDI,,polo de baixa e media complexidade de serviços de saúde
+-57.081825,-29.7598229991864,831,4322400,URUGUAIANA,URUGUAIANA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.937292,-28.5019719992081,832,4322509,VACARIA,VACARIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.681355,-29.6088279991889,833,4322533,VALE DO SOL,VALE DO SOL,,polo de baixa e media complexidade de serviços de saúde
+-52.19188,-29.6116529991888,834,4322608,VENANCIO AIRES,VENANCIO AIRES,,polo de baixa e media complexidade de serviços de saúde
+-51.552287,-28.9339569992005,835,4322806,VERANOPOLIS,VERANOPOLIS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-55.78131,-20.4592749993814,836,5001102,AQUIDAUANA,AQUIDAUANA,,polo de baixa e media complexidade de serviços de saúde
+-52.425437,-21.7152879993507,837,5001904,BATAGUASSU,BATAGUASSU,,polo de baixa e media complexidade de serviços de saúde
+-54.608595,-20.4626319993813,838,5002704,CAMPO GRANDE,CAMPO GRANDE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.731577,-19.1094069994157,839,5002902,CASSILANDIA,CASSILANDIA,,polo de baixa e media complexidade de serviços de saúde
+-57.6670796439322,-19.0091108173046,840,5003207,CORUMBA,CORUMBA,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-53.133047,-18.5435479994304,841,5003256,COSTA RICA,COSTA RICA,,polo de baixa e media complexidade de serviços de saúde
+-54.760623,-18.5033279994315,842,5003306,COXIM,COXIM,,polo de baixa e media complexidade de serviços de saúde
+-54.783149,-22.2410009993382,843,5003702,DOURADOS,DOURADOS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-56.139856,-21.4809409993562,844,5005004,JARDIM,JARDIM,,subpolo de baixa e media complexidade de serviços de saúde
+-54.281661,-23.9352739992996,845,5005681,MUNDO NOVO,MUNDO NOVO,,polo de baixa e media complexidade de serviços de saúde
+-54.201776,-23.0629169993192,846,5005707,NAVIRAI,NAVIRAI,,polo de baixa e media complexidade de serviços de saúde
+-53.343351,-22.2423829993382,847,5006200,NOVA ANDRADINA,NOVA ANDRADINA,,polo de baixa e media complexidade de serviços de saúde
+-51.18669,-19.678520999401,848,5006309,PARANAIBA,PARANAIBA,,polo de baixa e media complexidade de serviços de saúde
+-55.724598,-22.5385039993313,849,5006606,PONTA PORA,PONTA PORA,,polo de baixa e media complexidade de serviços de saúde
+-51.708894,-20.7911209993731,850,5008305,TRES LAGOAS,TRES LAGOAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.161837,-14.0570329995548,851,5100201,AGUA BOA,AGUA BOA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-56.085471,-9.87664999968064,852,5100250,ALTA FLORESTA,ALTA FLORESTA,,polo de baixa e media complexidade de serviços de saúde
+-53.220179,-17.3155739994632,853,5100300,ALTO ARAGUAIA,ALTO ARAGUAIA,,subpolo de baixa e media complexidade de serviços de saúde
+-57.178554,-15.0645209995258,854,5101704,BARRA DO BUGRES,BARRA DO BUGRES,,polo de baixa e media complexidade de serviços de saúde
+-52.264919,-15.8941139995024,855,5101803,BARRA DO GARCAS,BARRA DO GARCAS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-57.686718,-16.0647959994976,856,5102504,CACERES,CACERES,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-52.271436,-13.5559119995694,857,5102702,CANARANA,CANARANA,,polo de baixa e media complexidade de serviços de saúde
+-55.456392,-10.8053359996521,858,5103205,COLIDER,COLIDER,,polo de baixa e media complexidade de serviços de saúde
+-51.568972,-10.6472529996569,859,5103353,CONFRESA,CONFRESA,,polo de baixa e media complexidade de serviços de saúde
+-56.100424,-15.6006039995106,860,5103403,CUIABA,CUIABA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-56.447578,-14.4101059995446,861,5103502,DIAMANTINO,DIAMANTINO,,polo de baixa e media complexidade de serviços de saúde
+-54.907053,-9.94888099967845,862,5104104,GUARANTA DO NORTE,GUARANTA DO NORTE,,polo de baixa e media complexidade de serviços de saúde
+-54.964188,-15.9648379995003,863,5104807,JACIARA,JACIARA,,polo de baixa e media complexidade de serviços de saúde
+-57.513123,-11.2503599996384,864,5105101,JUARA,JUARA,,polo de baixa e media complexidade de serviços de saúde
+-58.757063,-11.4232629996332,865,5105150,JUINA,JUINA,,polo de baixa e media complexidade de serviços de saúde
+-55.924786,-13.0920859995832,866,5105259,LUCAS DO RIO VERDE,LUCAS DO RIO VERDE,,polo de baixa e media complexidade de serviços de saúde
+-59.340714,-15.2258889995213,867,5106752,PONTES E LACERDA,PONTES E LACERDA,,polo de baixa e media complexidade de serviços de saúde
+-54.300222,-15.5553669995119,868,5107040,PRIMAVERA DO LESTE,PRIMAVERA DO LESTE,,polo de baixa e media complexidade de serviços de saúde
+-54.622089,-16.4750609994862,869,5107602,RONDONOPOLIS,RONDONOPOLIS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.662328,-11.6167559996273,870,5107859,SAO FELIX DO ARAGUAIA,SAO FELIX DO ARAGUAIA,,polo de baixa e media complexidade de serviços de saúde
+-55.511217,-11.8564919996201,871,5107909,SINOP,SINOP,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-55.727483,-12.5452999995993,872,5107925,SORRISO,SORRISO,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-57.488264,-14.6196419995386,873,5107958,TANGARA DA SERRA,TANGARA DA SERRA,Subpolo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-56.14248,-15.6631199995089,874,5108402,VARZEA GRANDE,VARZEA GRANDE,,subpolo de baixa e media complexidade de serviços de saúde
+-46.510915,-14.4839379995424,875,5200803,ALVORADA DO NORTE,ALVORADA DO NORTE,,polo de baixa e media complexidade de serviços de saúde
+-48.957261,-16.3279919994903,876,5201108,ANAPOLIS,ANAPOLIS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.958028,-16.4620299994866,877,5201306,ANICUNS,ANICUNS,,polo de baixa e media complexidade de serviços de saúde
+-49.244749,-16.8227109994767,878,5201405,APARECIDA DE GOIANIA,APARECIDA DE GOIANIA,Subpolo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-48.625176,-17.7421999994517,879,5204508,CALDAS NOVAS,CALDAS NOVAS,,polo de baixa e media complexidade de serviços de saúde
+-46.772686,-13.0365539995848,880,5204904,CAMPOS BELOS,CAMPOS BELOS,,polo de baixa e media complexidade de serviços de saúde
+-47.950827,-18.1703129994403,881,5205109,CATALAO,CATALAO,,polo de baixa e media complexidade de serviços de saúde
+-47.46043,-13.7963179995624,882,5205307,CAVALCANTE,CAVALCANTE,,polo de baixa e media complexidade de serviços de saúde
+-49.603268,-15.3106189995188,883,5205406,CERES,CERES,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-47.337271,-15.5452369995121,884,5208004,FORMOSA,FORMOSA,,polo de baixa e media complexidade de serviços de saúde
+-49.116614,-15.3265589995184,885,5208608,GOIANESIA,GOIANESIA,,polo de baixa e media complexidade de serviços de saúde
+-49.256452,-16.6802279994806,886,5208707,GOIANIA,GOIANIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.140158,-15.9339779995013,887,5208905,GOIAS,GOIAS,,polo de baixa e media complexidade de serviços de saúde
+-49.358096,-18.0128719994445,888,5209101,GOIATUBA,GOIATUBA,,polo de baixa e media complexidade de serviços de saúde
+-49.494265,-16.3588469994894,889,5210000,INHUMAS,INHUMAS,,polo de baixa e media complexidade de serviços de saúde
+-51.12055,-16.4432309994871,890,5210208,IPORA,IPORA,,polo de baixa e media complexidade de serviços de saúde
+-49.800464,-16.0223009994988,891,5210406,ITABERAI,ITABERAI,,polo de baixa e media complexidade de serviços de saúde
+-49.216179,-18.4194229994336,892,5211503,ITUMBIARA,ITUMBIARA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-51.724001,-17.8857899994479,893,5211909,JATAI,JATAI,,polo de baixa e media complexidade de serviços de saúde
+-50.869083,-15.8651439995032,894,5212204,JUSSARA,JUSSARA,,polo de baixa e media complexidade de serviços de saúde
+-48.219911,-13.5314319995702,895,5213087,MINACU,MINACU,,polo de baixa e media complexidade de serviços de saúde
+-52.551482,-17.5703439994563,896,5213103,MINEIROS,MINEIROS,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-49.121201,-17.7339379994519,897,5213806,MORRINHOS,MORRINHOS,,polo de baixa e media complexidade de serviços de saúde
+-47.615457,-15.4530749995148,898,5217609,PLANALTINA,PLANALTINA,,subpolo de baixa e media complexidade de serviços de saúde
+-49.14718,-13.4410889995728,899,5218003,PORANGATU,PORANGATU,,polo de baixa e media complexidade de serviços de saúde
+-46.369779,-14.0931279995538,900,5218300,POSSE,POSSE,,polo de baixa e media complexidade de serviços de saúde
+-50.453055,-18.4484269994329,901,5218508,QUIRINOPOLIS,QUIRINOPOLIS,,polo de baixa e media complexidade de serviços de saúde
+-50.908057,-17.7853029994506,902,5218805,RIO VERDE,RIO VERDE,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
+-50.597169,-17.8136919994497,903,5219308,SANTA HELENA DE GOIAS,SANTA HELENA DE GOIAS,Polo de alta complexidade de serviços de saúde,subpolo de baixa e media complexidade de serviços de saúde
+-50.371514,-16.5232229994848,904,5220108,SAO LUIS DE MONTES BELOS,SAO LUIS DE MONTES BELOS,,polo de baixa e media complexidade de serviços de saúde
+-50.159356,-13.2736969995777,905,5220207,SAO MIGUEL DO ARAGUAIA,SAO MIGUEL DO ARAGUAIA,,polo de baixa e media complexidade de serviços de saúde
+-49.092786,-16.7083499994798,906,5220454,SENADOR CANEDO,SENADOR CANEDO,,subpolo de baixa e media complexidade de serviços de saúde
+-49.140926,-14.5245569995413,907,5221601,URUACU,URUACU,,polo de baixa e media complexidade de serviços de saúde
+-47.982023,-16.0684979994975,908,5221858,VALPARAISO DE GOIAS,VALPARAISO DE GOIAS,,subpolo de baixa e media complexidade de serviços de saúde
+-47.908056,-15.7843389995054,909,5300108,BRASILIA,BRASILIA,Polo de alta complexidade de serviços de saúde,polo de baixa e media complexidade de serviços de saúde
